@@ -80,3 +80,9 @@ Published in: Phys.Rev.D 98 (2018) 10, 106014 • e-Print: 1809.10536 [hep-th]<b
 
 [1] J. Liu, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 041101(R) (2017).; J. Liu, H. Shen, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 241104(R) (2017).; YN, H, Shen, Y. Qi, J. Liu, and L. Fu, Phys. Rev. B 96, 161102(R) (2017)<br>
 [2] YN, M. Okumura, K. Kobayashi and M. Shiga, arXiv:1909.02255<br>
+
+# 過去のワークショップ研究会
+[Deep Learning and physics2019](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/)
+[Deep Learning and physics2018](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2018/)
+[Deep Learning and physics](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/tsrp/Deep_Lerning.html)
+
