@@ -28,6 +28,8 @@
 日時: 2020年6月11日10:30-11:30(JST)<br>
 発表者：希望者先着10名<br>
 
+講演後には、参加者に「さらに詳しく聞きたい講演」についてのアンケートを実施し、そのアンケート結果をもとに、今後のオンラインセミナーの講演を決めていこうと考えています。<br>
+
 [発表希望者用フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfFsyop94o5mV_2ab6qB_PjpWGUN_77C_dZ44hjmXGC_MHEKg/viewform)
 
 [参加希望者（発表なし）用フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfXiD5kB106iFpglgvTa_TjvoDH03EPFRB1hkSS8N0GZNyrjQ/viewform)
