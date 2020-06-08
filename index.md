@@ -25,10 +25,10 @@
 深層学習では, 性能の理論的な保証や, 最適なモデルや学習手法の設定に多くの課題があり, 数理的な研究が日進月歩で進んでいる. その中で統計力学的なアプローチは, 深層学習におけるパラメータ初期値がランダム行列であること, モデルの大自由度極限(ニューラルネットワーク各層の"幅"が十分に大きいこと)に着目した枠組みで, 様々なモデルアーキテクチャに普遍的に適応できる点に特徴がある. 平均場理論は, 勾配の大きさを巨視的変数として定式化することで, 訓練が進みやすいモデルとパラメータの設定を相転移によって定量的に説明する[1]. NTK理論は, 初期値まわりの摂動の範囲で学習が進む設定があることを発見し, 学習の大域収束と汎化性能に一定の理解を与える[2]. 
 本講演ではこのような統計力学的アプローチを, 歴史的な背景も含めつつ簡単に概観したい. また, このアプローチを使うことで, 再急降下法のハイパーパラメータ(学習率)の設定指針[3]やBatch NormalizationとLayer Normalizationの効果の違い[4]のようなアルゴリズムの問題に対して, 定量的な説明を与えられることも紹介する.
 
-[1] Deep information propagation. Samuel S Schoenholz, Justin Gilmer, Surya Ganguli and Jascha Sohl-Dickstein, ICLR 2017 (arXiv:1611.01232). 
-[2] Neural tangent kernel: Convergence and generalization in neural networks. Arthur Jacot, Franck Gabriel and Clément Hongler, NeurIPS 2018 (arXiv:1806.07572). 
-[3] Universal Statistics of Fisher Information in Deep Neural Networks: Mean Field Approach. RK, Shotaro Akaho and Shun-ichi Amari, AISTATS 2019 (arXiv:1806.01316).
-[4] The Normalization Method for Alleviating Pathological Sharpness in Wide Neural Networks. RK, Shotaro Akaho and Shun-ichi Amari, NeurIPS 2019 (arXiv:1906.02926).
+[1] Deep information propagation. Samuel S Schoenholz, Justin Gilmer, Surya Ganguli and Jascha Sohl-Dickstein, ICLR 2017 (arXiv:1611.01232). <br>
+[2] Neural tangent kernel: Convergence and generalization in neural networks. Arthur Jacot, Franck Gabriel and Clément Hongler, NeurIPS 2018 (arXiv:1806.07572). <br>
+[3] Universal Statistics of Fisher Information in Deep Neural Networks: Mean Field Approach. RK, Shotaro Akaho and Shun-ichi Amari, AISTATS 2019 (arXiv:1806.01316).<br>
+[4] The Normalization Method for Alleviating Pathological Sharpness in Wide Neural Networks. RK, Shotaro Akaho and Shun-ichi Amari, NeurIPS 2019 (arXiv:1906.02926).<br>
 
 
 # 第3回　
