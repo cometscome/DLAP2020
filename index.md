@@ -6,10 +6,10 @@
 * URLが掲載されたメールは当日の朝までに送られます。
 * 締切は前日の夜11時までとします。
 
-* 参加したい方は下記よりお申し込みください。毎回開催時に参加URLのついたアナウンスのメールを送信します。
+* 参加したい方は下記よりお申し込みください。毎回開催時に参加URLのついたアナウンスのメールを送信します。<br>
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfiSawgWi9BZF7pFmGsTDD7bOX4kPZKX-BRtPJ4PmwhKe-22A/viewform)
 
-* 解約フォームは下記でございます。
+* 解約フォームは下記でございます。<br>
 [解約フォーム](https://docs.google.com/forms/d/e/1FAIpQLSePLXuRLkxVK3CdR_aZBup166mRROk5Z3Ty4zN86_7vSLON2w/viewform)
 
 
