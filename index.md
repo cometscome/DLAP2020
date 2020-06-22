@@ -3,9 +3,14 @@
 登録する際のメールアドレスは、できるだけ大学もしくは研究機関のものをご使用ください。
 
 * Cisco Webex (Zoomと類似のオンラインミーティングアプリ）のミーティングURLおよびパスワードは、先着順200名様に限り、登録されたメールアドレスに送信されます。転載・転送は控えてください。
-* ご参加の際は毎回の登録をお願いします。
 * URLが掲載されたメールは当日の朝までに送られます。
 * 締切は前日の夜11時までとします。
+
+* 参加したい方は下記よりお申し込みください。毎回開催時に参加URLのついたアナウンスのメールを送信します。
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfiSawgWi9BZF7pFmGsTDD7bOX4kPZKX-BRtPJ4PmwhKe-22A/viewform)
+
+* 解約フォームは下記でございます。
+[解約フォーム](https://docs.google.com/forms/d/e/1FAIpQLSePLXuRLkxVK3CdR_aZBup166mRROk5Z3Ty4zN86_7vSLON2w/viewform)
 
 
 * 参加時の表示名は「登録時の名前＠登録した機関名」に設定してください。
