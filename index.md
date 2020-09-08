@@ -67,7 +67,13 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 # 第11回
 日時: 9月17日10:30-11:30(JST)<br>
 発表者: 藤井啓祐(阪大基礎工)<br>
-発表題目:TBA<br>
+発表題目:NISQ (Noisy Intermediate-Scale Quantum technology) マシンを用いた量子機械学習<br>
+講演概要: 
+近年、GoogleやIBMなどの巨大IT企業が量子コンピュータの開発競争を繰り広げている。昨年Googleは、50量子ビットを超えるサイズの量子コンピュータを実現し、特定のタスクにおいてスーパーコンピュータよりも圧倒的に速く計算ができることを実証した。しかしながら、素因数分解など高速性が証明されている複雑な量子アルゴリズムの実行には、量子コンピュータの規模がまだ小さくノイズレベルも高い。このような、ノイズを含む小・中規模の量子コンピュータは、NISQ（Noisy Intermediate-Scale Quantum technology）と呼ばれている。このNISQマシンを、機械学習、量子化学計算、最適化などに応用するための研究が現在盛んに進められている。本セミナーでは、このような量子コンピュータを取り囲む現状を紹介し、NISQマシンを機械学習へと応用する、量子機械学習について紹介する。特に、量子ダイナミクスを用いて時系列データ処理を行う、量子レザバー計算[1]や、量子回路をモデルとして教師あり学習を行う量子回路学習[2]、そして、量子状態に特徴量を埋め込み量子コンピュータを用いてカーネルを推定する量子カーネル推定法[3]について、我々の研究も交えてご紹介する。<br>
+
+[1] K. Fujii and K. Nakajima “Harnessing Disordered-Ensemble Quantum Dynamics for Machine Learning”, Phys. Rev. Applied 8, 24030 (2017).<br>
+[2] K. Mitarai, M. Negoro, M. Kitagawa, and K. Fujii, “Quantum Circuit Learning”, Phys. Rev. A 98, 032309 (2018). <br>
+[3] T. Kusumoto, K. Mitarai, K. Fujii, and M. Kitagawa, and M. Negoro, “Experimental quantum kernel machine learning with nuclear spins in a solid”, arXiv:1911.12021.<br>
 
 # 第10回
 日時: 9月3日10:30-11:30(JST)<br>
