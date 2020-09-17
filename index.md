@@ -7,7 +7,8 @@
 * 締切は前日の夜11時までとします。
 
 * 参加したい方は下記よりお申し込みください。毎回開催時に参加URLのついたアナウンスのメールを送信します。<br>
-[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfiSawgWi9BZF7pFmGsTDD7bOX4kPZKX-BRtPJ4PmwhKe-22A/viewform)
+[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfiSawgWi9BZF7pFmGsTDD7bOX4kPZKX-BRtPJ4PmwhKe-22A/viewform) <br>
+(講演の当日0時までにご登録ください)
 
 * 解約フォームは下記でございます。<br>
 [解約フォーム](https://docs.google.com/forms/d/e/1FAIpQLSePLXuRLkxVK3CdR_aZBup166mRROk5Z3Ty4zN86_7vSLON2w/viewform)
@@ -33,6 +34,21 @@
 * [第3回：　ライトニングトーク](#第3回) 6/11
 * [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
 * [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
+
+# 第?回
+日時: 12月10日10:30-11:30(JST)<br>
+発表者: 本間希樹(国立天文台)<br>
+発表題目: TBA<br>
+
+# 第14回
+日時: 10月29日10:30-11:30(JST)<br>
+発表者: TBA<br>
+発表題目: TBA<br>
+
+# 第13回
+日時: 10月15日10:30-11:30(JST)<br>
+発表者: TBA<br>
+発表題目: TBA<br>
 
 # 第12回
 日時: 10月1日10:30-11:30(JST)<br>
