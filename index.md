@@ -20,6 +20,7 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
+* [第13回：　Kazuhiro Terao 「End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors」]（ご講演は英語） (#第13回) 10/15
 * [第12回：　樺島祥介 「スパース線形回帰に対する半解析的ブートストラップ法」](#第12回) 10/1
 * [第11回：　藤井啓祐 「NISQ (Noisy Intermediate-Scale Quantum technology) マシンを用いた量子機械学習」](#第11回) 9/17
 * [第10回：　斎藤弘樹 「強化学習を用いたボース・アインシュタイン凝縮体の制御」](#第10回) 9/3
@@ -45,8 +46,10 @@
 
 # 第13回
 日時: 10月15日10:30-11:30(JST)<br>
-発表者: TBA<br>
-発表題目: TBA<br>
+発表者: Kazuhiro Terao (SLAC スタンフォード国立加速器研究所)<br>（ご講演は英語）
+発表題目: End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors<br>
+With firm evidence of neutrino oscillation and measurements of mixing parameters, neutrino experiments are entering the high precision measurement era. The detector is becoming larger and denser to gain high statistics of measurements, and detector technologies evolve toward particle imaging, essentially a hi-resolution "camera", in order to capture every single detail of particles produced in a neutrino interaction. The forefront of such detector technologies is a Liquid Argon Time Projection Chamber (LArTPC), which is capable of recording images of charged particle tracks with breathtaking resolution. Such detailed information will allow LArTPCs to perform accurate particle identification and calorimetry, making it the detector of choice for many current and future neutrino experiments. However, analyzing hi-resolution imaging data can be challenging, requiring the development of many algorithms to identify and assemble features of the events in order to reconstruct neutrino interactions. In the recent years, we have been investigating a new approach using deep neural networks (DNNs), a modern solution to a pattern recognition for image-like data in the field of Computer Vision. A modern DNN can be applied for various types of problems such as data reconstruction tasks including interaction vertex identification, pixel clustering, particle type and flow reconstruction. In this talk I will discuss the challenges of data reconstruction for imaging detectors, recent work and future plans for developing a full LArTPC data reconstruction chain using DNNs.
+
 
 # 第12回
 日時: 10月1日10:30-11:30(JST)<br>
