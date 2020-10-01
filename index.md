@@ -20,7 +20,7 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
-* [第13回：　Kazuhiro Terao 「End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors」]（ご講演は英語） (#第13回) 10/15
+* [第13回：　Kazuhiro Terao 「End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors」](#第13回) 10/15 (ご講演は英語）
 * [第12回：　樺島祥介 「スパース線形回帰に対する半解析的ブートストラップ法」](#第12回) 10/1
 * [第11回：　藤井啓祐 「NISQ (Noisy Intermediate-Scale Quantum technology) マシンを用いた量子機械学習」](#第11回) 9/17
 * [第10回：　斎藤弘樹 「強化学習を用いたボース・アインシュタイン凝縮体の制御」](#第10回) 9/3
@@ -54,6 +54,7 @@ With firm evidence of neutrino oscillation and measurements of mixing parameters
 # 第12回
 日時: 10月1日10:30-11:30(JST)<br>
 発表者: 樺島祥介(東大理／知の物理学研究センター)<br>
+[講演スライド](./slides/SemianalyticBS.pdf)<br>
 発表題目:スパース線形回帰に対する半解析的ブートストラップ法<br>
 概要：データからのパラメータ推定では必ず統計的なゆらぎが生じる．
 古典的な推測統計学では，母集団分布と推定量の分布を「解析的に」関係づける
