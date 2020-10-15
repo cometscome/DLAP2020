@@ -58,7 +58,9 @@
 
 # 第13回
 日時: 10月15日10:30-11:30(JST)<br>
-発表者: Kazuhiro Terao (SLAC スタンフォード国立加速器研究所)<br>（ご講演は英語）
+発表者: Kazuhiro Terao (SLAC スタンフォード国立加速器研究所)<br>
+[講演スライド](./slides/2020-10-14-JapanSeminar.pdf)<br>
+（ご講演は英語）
 発表題目: End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors<br>
 概要：With firm evidence of neutrino oscillation and measurements of mixing parameters, neutrino experiments are entering the high precision measurement era. The detector is becoming larger and denser to gain high statistics of measurements, and detector technologies evolve toward particle imaging, essentially a hi-resolution "camera", in order to capture every single detail of particles produced in a neutrino interaction. The forefront of such detector technologies is a Liquid Argon Time Projection Chamber (LArTPC), which is capable of recording images of charged particle tracks with breathtaking resolution. Such detailed information will allow LArTPCs to perform accurate particle identification and calorimetry, making it the detector of choice for many current and future neutrino experiments. However, analyzing hi-resolution imaging data can be challenging, requiring the development of many algorithms to identify and assemble features of the events in order to reconstruct neutrino interactions. In the recent years, we have been investigating a new approach using deep neural networks (DNNs), a modern solution to a pattern recognition for image-like data in the field of Computer Vision. A modern DNN can be applied for various types of problems such as data reconstruction tasks including interaction vertex identification, pixel clustering, particle type and flow reconstruction. In this talk I will discuss the challenges of data reconstruction for imaging detectors, recent work and future plans for developing a full LArTPC data reconstruction chain using DNNs.
 
