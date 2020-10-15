@@ -20,6 +20,7 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
+* [第14回：　野尻美保子 「ミンコフスキー汎関数を用いた機械学習の提案」](#第14回) 10/29
 * [第13回：　Kazuhiro Terao 「End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors」](#第13回) 10/15 (ご講演は英語）
 * [第12回：　樺島祥介 「スパース線形回帰に対する半解析的ブートストラップ法」](#第12回) 10/1
 * [第11回：　藤井啓祐 「NISQ (Noisy Intermediate-Scale Quantum technology) マシンを用いた量子機械学習」](#第11回) 9/17
@@ -37,6 +38,11 @@
 # 第?回
 日時: 12月10日10:30-11:30(JST)<br>
 発表者: 本間希樹(国立天文台)<br>
+発表題目: TBA<br>
+
+# 第15回
+日時: 11月12日10:30-11:30(JST)<br>
+発表者: 森貴司(RIKEN CEMS)<br>
 発表題目: TBA<br>
 
 # 第14回
