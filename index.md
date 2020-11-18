@@ -78,7 +78,9 @@
 第2部<br>
 発表者: 富谷昭夫 (RIKEN BNL)<br>
 発表題目: ニューラルネットを使った2次元イジング模型の相検出<br>
-概要: 本講義では、tensorflow/kerasを用いてNature Physics掲載の論文の結果であるニューラルネットを使った2次元イジング模型の相転移の検出をおこないます。統計力学の初歩程度の知識を仮定します。<br>
+概要: 本講義では、tensorflow/kerasを用いてNature Physics掲載の論文[1] の結果であるニューラルネットを使った2次元イジング模型の相転移の検出をおこないます。統計力学の初歩程度の知識を仮定します。<br>
+[1] Juan Carrasquilla & Roger G. Melko, Nature Physics volume 13, pages431–434(2017)
+<br>
 
 # 第15回
 日時: 11月12日10:30-11:30(JST)<br>
