@@ -51,11 +51,10 @@
 概要: We propose a theoretical understanding of neural networks in terms of Wilsonian effective field theory. The correspondence relies on the fact that many asymptotic neural networks are drawn from Gaussian processes, the analog of non-interacting field theories. Moving away from the asymptotic limit yields a non-Gaussian process and corresponds to turning on particle interactions, allowing for the computation of correlation functions of neural network outputs with Feynman diagrams. Minimal non-Gaussian process likelihoods are determined by the most relevant non-Gaussian terms, according to the flow in their coefficients induced by the Wilsonian renormalization group. This yields a direct connection between overparameterization and simplicity of neural network likelihoods. Whether the coefficients are constants or functions may be understood in terms of GP limit symmetries, as expected from 't Hooft's technical naturalness. General theoretical calculations are matched to neural network experiments in the simplest class of models allowing the correspondence. Our formalism is valid for any of the many architectures that becomes a GP in an asymptotic limit, a property preserved under certain types of training.<br>
 [1] arXiv:2008.08601
 
-
-
 # 第18回
 日時: 1月14日10:30-11:30(JST)<br>
 発表者: 鈴木大慈(東京大学大学院 情報理工学系研究科数理情報学専攻)<br>
+[講演スライド](./slides/Physics2021_public.pdf)<br>
 発表題目: 無限次元勾配ランジュバン動力学による深層学習の最適化理論と汎化誤差解析<br>
 概要: これまで統計的学習理論の枠組みにおいて深層学習の優位性が様々な
 研究によって解明されてきたが，それらの多くはモデルの非凸性に起因
