@@ -43,6 +43,12 @@
 * [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
 * [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
 
+
+# 第20回
+日時: 2月18日10:30-11:30(JST)<br>
+発表者: Hidenori Tanaka (Group Head & Senior Scientist at NTT Physics & Informatics Laboratories,Visiting Scholar at Stanford University)<br>
+発表題目: TBA<br>
+
 # 第19回
 日時: 1月28日10:30-11:30(JST)<br>
 発表者: James Halverson (Northeastern University, NSF AI Institute for Artificial Intelligence and Fundamental Interactions, co-organizes of Physics ∩ ML)<br>
