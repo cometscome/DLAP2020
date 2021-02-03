@@ -23,6 +23,8 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
+* [第22回：　松原祟「エネルギー保存則など望ましい性質を持つ深層学習の設計について」](#第22回) 3/11
+* [第21回：　一木輝久「ニューラルネットワークによる結び目の標準化」](#第21回) 2/25
 * [第20回：　Hidenori Tanaka「TBA」](#第20回) 2/18
 * [第19回：　James Halverson「Neural Networks and Quantum Field Theory」](#第19回) 1/28
 * [第18回：　鈴木大慈「無限次元勾配ランジュバン動力学による深層学習の最適化理論と汎化誤差解析」](#第18回) 1/14
@@ -44,6 +46,23 @@
 * [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
 * [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
 
+# 第22回
+日時: 3月11日10:30-11:30(JST)<br>
+発表者: 松原祟（大阪大学大学院基礎工学研究科）<br>
+発表題目: エネルギー保存則など望ましい性質を持つ深層学習の設計について<br>
+概要: "深い"ニューラルネットワークである深層学習は高い柔軟性を持ち，大規模なデータを学習することで，自動的に高度な意思決定システムを構築できるのだと説明されている．しかし，実際に深層学習が注目される契機となったのは畳み込みニューラルネットワークであり，平行移動不変性という特殊な性質を持っている．この性質によって，対象の位置のずれや微小な変形に対して堅牢な識別が可能になっている．類似したアイデアは，データの集合を入力として受け取るDeep Setsや，ノード間の順番を考慮しないグラフ畳み込みにも見られ，それぞれの分野で高い性能を発揮している．成功した深層学習は，ノーフリーランチ定理そのままに，何らかの性質を持つよう設計されている．<br>
+このような考え方を物理学の世界に広げると，望ましい性質として物理の法則が挙げられる．近年ではハミルトニアンニューラルネットワークといい，ハミルトン系の基礎方程式を模倣することで，連続時間でエネルギー保存則が成り立つ物理シミュレーションを可能にするフレームワークが提案されている[1]．講演者らはさらに，ハミルトン系に限定されずエネルギーで記述された物理現象について，エネルギー保存則・散逸則を 離散時間において 厳密に保証するフレームワークを提案した[2]．本講演では，これらの研究に関する近年の動向を紹介するとともに，深層学習から見た物理学への期待についても述べる．<br>
+[1] Sam Greydanus, Misko Dzamba, and Jason Yosinski, "Hamiltonian Neural Networks, " Advances in Neural Information Processing Systems (NeurIPS), 2019.<br>
+[2] Takashi Matsubara, Ai Ishikawa, and Takaharu Yaguchi, "Deep Energy-Based Modeling of Discrete-Time Physics," Advances in Neural Information Processing Systems (NeurIPS), 2020.<br>
+
+# 第21回
+日時: 2月25日10:30-11:30(JST)<br>
+発表者: 一木輝久（名古屋大学未来社会創造機構）<br>
+発表題目: ニューラルネットワークによる結び目の標準化<br>
+概要: 典型的なニューラルネットワークはaffine変換と活性化関数を繰り返すことで実装されている．したがって活性化関数が狭義単調な連続関数の場合、ニューラルネットワークは入力データ空間の位相的性質を保存する変換を表現していることになる[1, 2]．そこで本講演ではニューラルネットワークを、トポロジーを不変に保つ変形を行う変換器として利用することを提唱する．具体的には結び目の上に配置した荷電粒子の反発エネルギーを最小化することによって、グチャグチャに折りたたまれた「汚い」結び目を、よりエネルギーの低い「標準的な」結び目へ変形するようニューラルネットワークの学習を行う．荷電粒子の物理モデルに勾配法などを適用すればニューラルネットワークは必要ないように思われるが、純粋な物理モデルで長さ一定の紐の上に束縛された粒子の運動を数値的に取り扱うのは容易ではない．このような利点を踏まえ、ニューラルネットワークは結び目を分類できるだろうか？という問いに対する取り組みを紹介する．<br>
+[1] C. Olah, “Neural Networks, manifolds, and topology”, Blog post (2014).<br>
+[2] M. Hajij and K. Istvan, “A topological framework for deep learning”, arXiv:2008.13697.<br>
+
 
 # 第20回
 日時: 2月18日10:30-11:30(JST)<br>
@@ -53,6 +72,7 @@
 # 第19回
 日時: 1月28日10:30-11:30(JST)<br>
 発表者: James Halverson (Northeastern University, NSF AI Institute for Artificial Intelligence and Fundamental Interactions, co-organizes of Physics ∩ ML)<br>
+[講演スライド](./slides/NN-QFT_DLAP.pdf)<br>
 発表題目: Neural Networks and Quantum Field Theory<br>
 （ご講演は英語）<br>
 概要: We propose a theoretical understanding of neural networks in terms of Wilsonian effective field theory. The correspondence relies on the fact that many asymptotic neural networks are drawn from Gaussian processes, the analog of non-interacting field theories. Moving away from the asymptotic limit yields a non-Gaussian process and corresponds to turning on particle interactions, allowing for the computation of correlation functions of neural network outputs with Feynman diagrams. Minimal non-Gaussian process likelihoods are determined by the most relevant non-Gaussian terms, according to the flow in their coefficients induced by the Wilsonian renormalization group. This yields a direct connection between overparameterization and simplicity of neural network likelihoods. Whether the coefficients are constants or functions may be understood in terms of GP limit symmetries, as expected from 't Hooft's technical naturalness. General theoretical calculations are matched to neural network experiments in the simplest class of models allowing the correspondence. Our formalism is valid for any of the many architectures that becomes a GP in an asymptotic limit, a property preserved under certain types of training.<br>
