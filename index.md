@@ -25,7 +25,7 @@
 
 * [第22回：　松原祟「エネルギー保存則など望ましい性質を持つ深層学習の設計について」](#第22回) 3/11
 * [第21回：　一木輝久「ニューラルネットワークによる結び目の標準化」](#第21回) 2/25
-* [第20回：　Hidenori Tanaka「TBA」](#第20回) 2/18
+* [第20回：　Hidenori Tanaka & Daniel Kunin「Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics」](#第20回) 2/18
 * [第19回：　James Halverson「Neural Networks and Quantum Field Theory」](#第19回) 1/28
 * [第18回：　鈴木大慈「無限次元勾配ランジュバン動力学による深層学習の最適化理論と汎化誤差解析」](#第18回) 1/14
 * [第17回：　本間希樹「EHTによるブラックホールの撮像とスパースモデリング」](#第17回) 12/10
