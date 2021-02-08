@@ -67,7 +67,16 @@
 # 第20回
 日時: 2月18日10:30-11:30(JST)<br>
 発表者: Hidenori Tanaka (Group Head & Senior Scientist at NTT Physics & Informatics Laboratories,Visiting Scholar at Stanford University)<br>
-発表題目: TBA<br>
+Daniel Kunin (Stanford University)<br>
+発表題目: Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics<br>
+（ご講演は英語）<br>
+概要: Predicting the dynamics of neural network parameters during training is one of the key challenges in building a theoretical foundation for deep learning. A central obstacle is that the motion of a network in high-dimensional parameter space undergoes discrete finite steps along complex stochastic gradients derived from real-world datasets. We circumvent this obstacle through a unifying theoretical framework based on intrinsic symmetries embedded in a network's architecture that are present for any dataset. We show that any such symmetry imposes stringent geometric constraints on gradients and Hessians, leading to an associated conservation law in the continuous-time limit of stochastic gradient descent (SGD), akin to Noether's theorem in physics. We further show that finite learning rates used in practice can actually break these symmetry induced conservation laws. We apply tools from finite difference methods to derive modified gradient flow, a differential equation that better approximates the numerical trajectory taken by SGD at finite learning rates. We combine modified gradient flow with our framework of symmetries to derive exact integral expressions for the dynamics of certain parameter combinations. We empirically validate our analytic predictions for learning dynamics on VGG-16 trained on Tiny ImageNet. Overall, by exploiting symmetry, our work demonstrates that we can analytically describe the learning dynamics of various parameter combinations at finite learning rates and batch sizes for state of the art architectures trained on any dataset.<br>
+Refs:<br>
+[1] "Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics" (ICLR 2021)
+Daniel Kunin*, Javier Sagastuy-Brena, Surya Ganguli, Daniel L.K. Yamins, Hidenori Tanaka*<br>
+[2] "Pruning neural networks without any data by iteratively conserving synaptic flow" (NeurIPS 2020)
+Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
+
 
 # 第19回
 日時: 1月28日10:30-11:30(JST)<br>
