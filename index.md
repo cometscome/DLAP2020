@@ -23,7 +23,8 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
-* [第29回：　Lei Wang TBA](#第29回) 7/1
+* [第30回：　Dimitrios Bachtis 「Quantum field-theoretic machine learning」](#第30回) 7/15
+* [第29回：　Lei Wang 「Fermi Flow: Ab-initio study of fermions at finite temperature」](#第29回) 7/1
 * [第28回：　蘆田祐人「差分進化を用いた最適なナノ熱機関の探索」](#第28回) 6/17
 * [第27回：　今泉允聡「深層学習の汎化誤差解析：損失面由来の暗黙的正則化と深層モデルの二重降下」](#第27回) 6/3
 * [第26回：　パネルディスカッション「物理 x 深層学習 の未来」](#第26回) 5/20
@@ -52,6 +53,13 @@
 * [第3回：　ライトニングトーク](#第3回) 6/11
 * [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
 * [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
+
+# 第30回
+日時: 7月15日10:30-11:30(JST)<br>
+発表者: Dimitrios Bachtis (Swansea University)<br>
+発表題目:Quantum field-theoretic machine learning <br>
+概要：
+The precise equivalence between discretized Euclidean field theories and a certain class of probabilistic graphical models, namely the mathematical framework of Markov random fields, opens up the opportunity to investigate machine learning from the perspective of quantum field theory. In this talk we will demonstrate, through the Hammersley-Clifford theorem, that the $\phi^{4}$ scalar field theory on a square lattice satisfies the local Markov property and can therefore be recast as a Markov random field. We will then derive from the $\phi^{4}$ theory machine learning algorithms and neural networks which can be viewed as generalizations of conventional neural network architectures. Finally, we will conclude by presenting applications based on the minimization of an asymmetric distance between the probability distribution of the $\phi^{4}$ machine learning algorithms and that of target probability distributions.<br>
 
 # 第29回
 日時: 7月1日10:30-11:30(JST)<br>
