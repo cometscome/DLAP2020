@@ -64,6 +64,7 @@ The precise equivalence between discretized Euclidean field theories and a certa
 # 第29回
 日時: 7月1日10:30-11:30(JST)<br>
 発表者: Lei Wang (Chinese Academy of Sciences)<br>
+[講演スライド](./slides/Coulomb_gas-DLAP.pdf)<br>
 発表題目:Fermi Flow: Ab-initio study of fermions at finite temperature <br>
 概要：
 Fermi Flow is a variational free energy approach to thermal properties of interacting fermions in the continuum. The approach builds on classic works such as Feynman's backflow transformation and DeWitt's quantized point transformation. Crucially, one can leverage modern computing techniques for these physical transformations by exploiting their connection to recent advances in deep learning, such as equivariant normalizing flows and neural ordinary equations. I will discuss promising results of Fermi Flow applied to the uniform electron gas, a fundamental problem in condensed matter and warm dense matter research. <br>
