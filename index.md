@@ -23,6 +23,7 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
+* [第31回：　中郷 孝祐 「PFP：材料探索のための汎用Neural Network Potential」](#第31回) 10/4(<font color="red">いつもと時間が異なります</font>)
 * [第30回：　Dimitrios Bachtis 「Quantum field-theoretic machine learning」](#第30回) 7/15
 * [第29回：　Lei Wang 「Fermi Flow: Ab-initio study of fermions at finite temperature」](#第29回) 7/1
 * [第28回：　蘆田祐人「差分進化を用いた最適なナノ熱機関の探索」](#第28回) 6/17
@@ -53,6 +54,16 @@
 * [第3回：　ライトニングトーク](#第3回) 6/11
 * [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
 * [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
+
+# 第31回
+日時：2021年10月4日16:00- (<font color="red">いつもと時間が異なります</font>)<br>
+講演者：中郷 孝祐（PFN)<br>
+発表題目：PFP：材料探索のための汎用Neural Network Potential<br>
+([Quantum Computational Materials Science Roundtable](https://shinaoka.github.io/QCMSR/)との共催です)<br>
+概要：
+Neural Network Potential (NNP)は、Neural Network を用いて分子動力学ポテンシャルを表現するものである。本セミナーではNNP研究の流れを振り返り、どのようにNNP開発のためのデータセット収集やNeural Networkの取扱いが発展してきたのかを紹介する。
+後半では、多種多様な系に対して適用可能となるように開発した汎用NNPであるPFP [1]についての解説を行う。また、PFPを用いた事例としてどのような材料探索が行えるかをその応用的な使い方とともに紹介する。
+[1] PFP: Universal Neural Network Potential for Material Discovery
 
 # 第30回
 日時: 7月15日10:30-11:30(JST)<br>
