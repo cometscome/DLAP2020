@@ -62,7 +62,7 @@
 ([Quantum Computational Materials Science Roundtable](https://shinaoka.github.io/QCMSR/)との共催です)<br>
 概要：
 Neural Network Potential (NNP)は、Neural Network を用いて分子動力学ポテンシャルを表現するものである。本セミナーではNNP研究の流れを振り返り、どのようにNNP開発のためのデータセット収集やNeural Networkの取扱いが発展してきたのかを紹介する。
-後半では、多種多様な系に対して適用可能となるように開発した汎用NNPであるPFP [1]についての解説を行う。また、PFPを用いた事例としてどのような材料探索が行えるかをその応用的な使い方とともに紹介する。
+後半では、多種多様な系に対して適用可能となるように開発した汎用NNPであるPFP [1]についての解説を行う。また、PFPを用いた事例としてどのような材料探索が行えるかをその応用的な使い方とともに紹介する。 <br>
 [1] PFP: Universal Neural Network Potential for Material Discovery
 
 # 第30回
