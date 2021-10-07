@@ -58,6 +58,7 @@
 # 第31回
 日時：2021年10月4日16:00- (<font color="red">いつもと時間が異なります</font>)<br>
 講演者：中郷 孝祐（PFN)<br>
+[講演スライド](https://www.slideshare.net/pfi/pfpneural-network-potential-2021104-qcmsr-dlap)<br>
 発表題目：PFP：材料探索のための汎用Neural Network Potential<br>
 ([Quantum Computational Materials Science Roundtable](https://shinaoka.github.io/QCMSR/)との共催です)<br>
 概要：
@@ -478,7 +479,12 @@ Published in: Phys.Rev.D 98 (2018) 10, 106014 • e-Print: 1809.10536 [hep-th]<b
 [2] YN, M. Okumura, K. Kobayashi and M. Shiga, arXiv:1909.02255<br>
 
 # 過去のワークショップ研究会
+[Deep Learning and physics2019](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/DLAP2019/)<br>
+[Deep Learning and physics2018](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto//workshop/DLAP2018/)<br>
+[Deep Learning and physics](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/tsrp/Deep_Lerning.html)
+<!--
 [Deep Learning and physics2019](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/)<br>
 [Deep Learning and physics2018](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2018/)<br>
 [Deep Learning and physics](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/tsrp/Deep_Lerning.html)
+-->
 
