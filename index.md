@@ -23,6 +23,8 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
+* [第33回：　吉野元 「深層ニューラルネットワークにおけるレプリカ対称性の破れとその空間構造」](#第33回) 11/11
+* [第32回：　山内紫 「TBA」](#第32回) 10/28
 * [第31回：　中郷 孝祐 「PFP：材料探索のための汎用Neural Network Potential」](#第31回) 10/4(<font color="red">いつもと時間が異なります</font>)
 * [第30回：　Dimitrios Bachtis 「Quantum field-theoretic machine learning」](#第30回) 7/15
 * [第29回：　Lei Wang 「Fermi Flow: Ab-initio study of fermions at finite temperature」](#第29回) 7/1
