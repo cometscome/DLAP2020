@@ -24,7 +24,7 @@
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
 * [第33回：　吉野元 「深層ニューラルネットワークにおけるレプリカ対称性の破れとその空間構造」](#第33回) 11/11
-* [第32回：　山内紫 「TBA」](#第32回) 10/28
+* [第32回：　山内紫 「Real-time dynamics of lattice field theories via machine learning」](#第32回) 10/28
 * [第31回：　中郷 孝祐 「PFP：材料探索のための汎用Neural Network Potential」](#第31回) 10/4(<font color="red">いつもと時間が異なります</font>)
 * [第30回：　Dimitrios Bachtis 「Quantum field-theoretic machine learning」](#第30回) 7/15
 * [第29回：　Lei Wang 「Fermi Flow: Ab-initio study of fermions at finite temperature」](#第29回) 7/1
@@ -71,8 +71,9 @@ https://www.nobelprize.org/uploads/2021/10/sciback_fy_en_21.pdf<br>
 # 第32回
 日時: 10月28日10:30-11:30(JST)<br>
 発表者: [山内紫](https://inspirehep.net/authors/1760376)（メリーランド大）<br>
-発表題目:TBA (https://inspirehep.net/literature/1841031 related)<br>
-概要：TBA<br>
+発表題目:Real-time dynamics of lattice field theories via machine learning (https://inspirehep.net/literature/1841031 related)<br>
+（ご講演は英語）<br>
+概要：Quantum chromodynamics (QCD), the underlying theory of nuclei and neutron stars, has been studied successfully by lattice QCD, a non-perturbative method for computing Feynman path integrals. However, lattice QCD calculations in Minkowski spacetime suffer from the so-called sign problem, preventing us from computing non-equilibrium properties of QCD efficiently. One way to address sign problems is to deform the contour of integration in the path integral to the complex plane. I will argue for the existence of such deformed contours that solve the sign problem completely for a wide class of lattice field theories such as Yang-Mills theories. I will also discuss numerical methods based on machine learning to find such perfect contours.<br>
 
 # 第31回
 日時：2021年10月4日16:00- (<font color="red">いつもと時間が異なります</font>)<br>
