@@ -71,6 +71,7 @@ https://www.nobelprize.org/uploads/2021/10/sciback_fy_en_21.pdf<br>
 # 第32回
 日時: 10月28日10:30-11:30(JST)<br>
 発表者: [山内紫](https://inspirehep.net/authors/1760376)（メリーランド大）<br>
+[講演スライド](./slides/AI_Japan_10_2021.pdf)<br>
 発表題目:Real-time dynamics of lattice field theories via machine learning (https://inspirehep.net/literature/1841031 related)<br>
 （ご講演は英語）<br>
 概要：Quantum chromodynamics (QCD), the underlying theory of nuclei and neutron stars, has been studied successfully by lattice QCD, a non-perturbative method for computing Feynman path integrals. However, lattice QCD calculations in Minkowski spacetime suffer from the so-called sign problem, preventing us from computing non-equilibrium properties of QCD efficiently. One way to address sign problems is to deform the contour of integration in the path integral to the complex plane. I will argue for the existence of such deformed contours that solve the sign problem completely for a wide class of lattice field theories such as Yang-Mills theories. I will also discuss numerical methods based on machine learning to find such perfect contours.<br>
