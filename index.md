@@ -23,6 +23,7 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
+* [第35回：　Pim de Haan 「Gauge Equivariant Mesh Convolutional Neural Networks」](#第35回) 12/9
 * [第34回：　大門俊介 「深層学習による量子指紋の解読」](#第34回) 11/25
 * [第33回：　吉野元 「深層ニューラルネットワークにおけるレプリカ対称性の破れとその空間構造」](#第33回) 11/11
 * [第32回：　山内紫 「Real-time dynamics of lattice field theories via machine learning」](#第32回) 10/28
@@ -60,8 +61,10 @@
 
 
 # 第35回
-日時: 12月9日<br>
-TBA
+日時: 12月9日16:30-17:30(JST)<br>
+発表者: Pim de Haan (Univ. of Amsterdam)<br>
+発表題目: Gauge Equivariant Mesh Convolutional Neural Networks<br>
+概要：Convolutional neural networks are widely successful in deep learning on image datasets. However, some data, like that resulting from MRI scans, do not reside on a square grid, but instead live on curved manifolds, discretized as meshes. A key issue on such meshes is that they lack a local notion of direction and hence the convolutional kernel cannot be canonically oriented. By doing message passing on the mesh and defining a groupoid of similar messages that should share weights, we propose a gauge equivariant method of building a CNN on such meshes that is direction-aware, yet agnostic to how the directions are chosen. It is scalable, invariant to how the mesh is rotated, and performs state-of-the-art on a medical application for estimating blood flow.
 
 # 第34回
 日時: 11月25日10:30-11:30(JST)<br>
