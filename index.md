@@ -64,6 +64,7 @@
 日時: 12月9日16:30-17:30(JST)<br>
 発表者: Pim de Haan (Univ. of Amsterdam)<br>
 発表題目: Gauge Equivariant Mesh Convolutional Neural Networks<br>
+[講演スライド](./slides/GECNN.pdf)<br>
 概要：Convolutional neural networks are widely successful in deep learning on image datasets. However, some data, like that resulting from MRI scans, do not reside on a square grid, but instead live on curved manifolds, discretized as meshes. A key issue on such meshes is that they lack a local notion of direction and hence the convolutional kernel cannot be canonically oriented. By doing message passing on the mesh and defining a groupoid of similar messages that should share weights, we propose a gauge equivariant method of building a CNN on such meshes that is direction-aware, yet agnostic to how the directions are chosen. It is scalable, invariant to how the mesh is rotated, and performs state-of-the-art on a medical application for estimating blood flow.
 
 # 第34回
