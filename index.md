@@ -23,6 +23,7 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
+* [第38回：　橋本 幸士 「深層学習と創発時空（ホログラフィー原理）に関する文献紹介」](#第38回) 3/10
 * [第37回：　三内 顕義 「Deep learning and symmetry」](#第37回) 2/17
 * [第36回：　瀧 雅人 「Computer VisionにおけるTransformerとMLP-Mixerの現状」](#第36回) 1/13
 * [第35回：　Pim de Haan 「Gauge Equivariant Mesh Convolutional Neural Networks」](#第35回) 12/9
@@ -60,6 +61,18 @@
 * [第3回：　ライトニングトーク](#第3回) 6/11
 * [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
 * [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
+
+# 第38回
+日時: 3月10日10:30-11:30(JST)<br>
+発表者: 橋本 幸士 (京大理)<br>
+発表題目: 深層学習と創発時空（ホログラフィー原理）に関する文献紹介<br>
+概要：ニューラルネットワーク自体を重力時空とみなし、深層学習をホログラフィー原理（AdS/CFT対応）とみなす一連の研究の最新成果の一つである文献[1]を紹介する。文献[1]は文献[2]でAdS/CFT対応のCFT側の量子エンタングルメントを学習データとした時空創発が行われたことの改善であるが、[1]では重力時空の量子和を試みており、量子重力理論と深層学習の間の橋渡しにチャレンジしている点が新しい。関連領域のレビューとともに、[1][2]を紹介する。<br>
+[1] Machine Learning Statistical Gravity from Multi-Region Entanglement Entropy<br>[Jonathan Lam](https://arxiv.org/search/hep-th?searchtype=author&query=Lam%2C+J), [Yi-Zhuang You](https://arxiv.org/search/hep-th?searchtype=author&query=You%2C+Y)<br>
+https://arxiv.org/abs/2110.01115<br>
+[2] Machine Learning Spatial Geometry from Entanglement Features<br>
+[Yi-Zhuang You](https://arxiv.org/search/hep-th?searchtype=author&query=You%2C+Y), [Zhao Yang](https://arxiv.org/search/hep-th?searchtype=author&query=Yang%2C+Z), [Xiao-Liang Qi](https://arxiv.org/search/hep-th?searchtype=author&query=Qi%2C+X)<br>
+Phys. Rev. B 97, 045153 (2018)<br>
+https://arxiv.org/abs/1709.01223
 
 # 第37回
 日時: 2月17日10:30-11:30(JST)<br>
