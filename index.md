@@ -67,12 +67,12 @@
 発表者: 橋本 幸士 (京大理)<br>
 発表題目: 深層学習と創発時空（ホログラフィー原理）に関する文献紹介<br>
 概要：ニューラルネットワーク自体を重力時空とみなし、深層学習をホログラフィー原理（AdS/CFT対応）とみなす一連の研究の最新成果の一つである文献[1]を紹介する。文献[1]は文献[2]でAdS/CFT対応のCFT側の量子エンタングルメントを学習データとした時空創発が行われたことの改善であるが、[1]では重力時空の量子和を試みており、量子重力理論と深層学習の間の橋渡しにチャレンジしている点が新しい。関連領域のレビューとともに、[1][2]を紹介する。<br>
-[1] Machine Learning Statistical Gravity from Multi-Region Entanglement Entropy<br>[Jonathan Lam](https://arxiv.org/search/hep-th?searchtype=author&query=Lam%2C+J), [Yi-Zhuang You](https://arxiv.org/search/hep-th?searchtype=author&query=You%2C+Y)<br>
-https://arxiv.org/abs/2110.01115<br>
+[1] Machine Learning Statistical Gravity from Multi-Region Entanglement Entropy<br>
+Jonathan Lam, Yi-Zhuang You<br>
+[https://arxiv.org/abs/2110.01115](https://arxiv.org/abs/2110.01115)<br>
 [2] Machine Learning Spatial Geometry from Entanglement Features<br>
-[Yi-Zhuang You](https://arxiv.org/search/hep-th?searchtype=author&query=You%2C+Y), [Zhao Yang](https://arxiv.org/search/hep-th?searchtype=author&query=Yang%2C+Z), [Xiao-Liang Qi](https://arxiv.org/search/hep-th?searchtype=author&query=Qi%2C+X)<br>
-Phys. Rev. B 97, 045153 (2018)<br>
-https://arxiv.org/abs/1709.01223
+Yi-Zhuang You, Zhao Yang, Xiao-Liang Qi<br>
+Phys. Rev. B 97, 045153 (2018) [https://arxiv.org/abs/1709.01223](https://arxiv.org/abs/1709.01223)
 
 # 第37回
 日時: 2月17日10:30-11:30(JST)<br>
