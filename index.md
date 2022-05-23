@@ -23,6 +23,7 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
+* [第40回：　Shirley Ho 「INTERPRETABLE LEARNING IN PHYSICAL SYSTEMS」](#第40回) 5/26
 * [第39回：　田中 章詞 「モンテカルロ法による強化学習入門」](#第39回) 5/12
 * [第38回：　橋本 幸士 「深層学習と創発時空（ホログラフィー原理）に関する文献紹介」](#第38回) 3/10
 * [第37回：　三内 顕義 「Deep learning and symmetry」](#第37回) 2/17
@@ -62,6 +63,12 @@
 * [第3回：　ライトニングトーク](#第3回) 6/11
 * [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
 * [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
+
+# 第40回
+日時: 5月26日10:30-11:30(JST)<br>
+発表者: Shirley Ho (Flatiron Institute, New York University)<br>
+発表題目: INTERPRETABLE LEARNING IN PHYSICAL SYSTEMS<br>
+概要：This work describes how machine learning may be used to develop accurate and efficient non-linear models for complex natural systems. We combine neural networks and symbolic regression to automatically discover the governing equations and hidden properties of real physical systems from observations. We will present multiple examples ranging from solar system data to simulated cosmological dataset. More broadly this work represents a key step toward realizing the potential of machine learning for accelerating scientific discovery.
 
 # 第39回
 日時: 5月12日10:30-11:30(JST)<br>
