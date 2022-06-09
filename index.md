@@ -69,6 +69,7 @@
 日時: 6月9日10:30-11:30(JST)<br>
 発表者: 園田 翔 (理研AIP)<br>
 発表題目: 一般空間上の積分表現ニューラルネットとリッジレット変換<br>
+[講演スライド](./slides/dlap202206sonoda.pdf)<br>
 概要：ニューラルネットが表す関数の性質を調べるには，ニューロン毎のパラメータを調べるよりも，ニューロン集団の分布を調べる方が扱いやすいことがある．前者を連続体のLagrange表示（物質表示）に対応付けるならば，後者はEuler表示（空間表示）に対応付けられる．積分表現理論は，一つの隠れ層を構成するニューロン集団を符号付き分布として定式化する解析理論である．このアプローチの強みは，ニューラルネットが表す関数fを分布関数γに対応付ける分解作用素（リッジレット変換）が積分作用素として陽に書き下せることである．リッジレット変換は1990年代にEuclid空間上の全結合層に対してMurata, Candes, Rubin によって独立に発見されていたが，今日の多様なネットワーク構造に対するリッジレット変換は未発見であった．講演者らの最近の研究により，多様体（非コンパクト対称空間）上の全結合層や，抽象ベクトル空間上の群畳み込み層に対してリッジレット変換を系統的に導出できるようになった．本講演では，その導出方法について解説する．<br>
 [1] S.Sonoda, I.Ishikawa, M.Ikeda, "Fully-Connected Network on Noncompact Symmetric Space and Ridgelet Transform based on Helgason-Fourier Analysis", to appear in ICML2022. (Preprint available at arXiv:2203.01631)<br>
 [2] S.Sonoda, I.Ishikawa, M.Ikeda, "Universality of group convolutional neural networks based on ridgelet analysis on groups", arXiv:2205.14819, 2022.
