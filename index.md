@@ -79,7 +79,7 @@
 質量の無いシュウィンガー模型の相図を温度と密度に沿って調べた。
 本講演では、それらの結果について報告する。
 <br>
-[1] Akio Tomiya [arXiv:2205.08860]([https://arxiv.org/abs/2205.08860]) <br>
+[1] Akio Tomiya [arXiv:2205.08860](https://arxiv.org/abs/2205.08860/index.html) <br>
 
 # 第41回
 日時: 6月9日10:30-11:30(JST)<br>
