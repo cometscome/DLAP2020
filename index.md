@@ -79,6 +79,7 @@
 日時: 6月23日10:30-11:30(JST)<br>
 発表者: 富谷昭夫 (IPUT Osaka)<br>
 発表題目: Finite temperature and density gauge theory with classical-quantum hybrid algorithm<br>
+[講演スライド](./slides/DLAP20220623pub.pdf)<br>
 概要：
 
 場の量子論は超弦理論や素粒子標準模型の記述に必須の理論物理学の体系であるが一般的に解析が困難であり、テイラー展開をつかった摂動論をつかって主に解析が行われている。
