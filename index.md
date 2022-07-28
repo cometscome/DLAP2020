@@ -31,41 +31,9 @@
 * [第38回：　橋本 幸士 「深層学習と創発時空（ホログラフィー原理）に関する文献紹介」](#第38回) 3/10
 * [第37回：　三内 顕義 「Deep learning and symmetry」](#第37回) 2/17
 * [第36回：　瀧 雅人 「Computer VisionにおけるTransformerとMLP-Mixerの現状」](#第36回) 1/13
-* [第35回：　Pim de Haan 「Gauge Equivariant Mesh Convolutional Neural Networks」](#第35回) 12/9
-* [第34回：　大門俊介 「深層学習による量子指紋の解読」](#第34回) 11/25
-* [第33回：　吉野元 「深層ニューラルネットワークにおけるレプリカ対称性の破れとその空間構造」](#第33回) 11/11
-* [第32回：　山内紫 「Real-time dynamics of lattice field theories via machine learning」](#第32回) 10/28
-* [第31回：　中郷 孝祐 「PFP：材料探索のための汎用Neural Network Potential」](#第31回) 10/4(<font color="red">いつもと時間が異なります</font>)
-* [第30回：　Dimitrios Bachtis 「Quantum field-theoretic machine learning」](#第30回) 7/15
-* [第29回：　Lei Wang 「Fermi Flow: Ab-initio study of fermions at finite temperature」](#第29回) 7/1
-* [第28回：　蘆田祐人「差分進化を用いた最適なナノ熱機関の探索」](#第28回) 6/17
-* [第27回：　今泉允聡「深層学習の汎化誤差解析：損失面由来の暗黙的正則化と深層モデルの二重降下」](#第27回) 6/3
-* [第26回：　パネルディスカッション「物理 x 深層学習 の未来」](#第26回) 5/20
-* [第25回：　田中章詞「識別器による最適輸送」](#第25回) 5/6
-* [第24回：　堀江正信「物理シミュレーションのための同変グラフニューラルネットワーク」](#第24回) 4/22
-* [第23回：　富谷昭夫「ゲージ共変なニューラルネットと4次元非可換ゲージ理論への応用」](#第23回) 4/8
-* [第22回：　松原祟「エネルギー保存則など望ましい性質を持つ深層学習の設計について」](#第22回) 3/11
-* [第21回：　一木輝久「ニューラルネットワークによる結び目の標準化」](#第21回) 2/25
-* [第20回：　Hidenori Tanaka & Daniel Kunin「Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics」](#第20回) 2/18
-* [第19回：　James Halverson「Neural Networks and Quantum Field Theory」](#第19回) 1/28
-* [第18回：　鈴木大慈「無限次元勾配ランジュバン動力学による深層学習の最適化理論と汎化誤差解析」](#第18回) 1/14
-* [第17回：　本間希樹「EHTによるブラックホールの撮像とスパースモデリング」](#第17回) 12/10
-* [第16回：　入門講義「機械学習と物理」](#第16回) 11/26
-* [第15回：　森貴司 「深層学習の汎化の謎をめぐって」](#第15回) 11/12
-* [第14回：　野尻美保子 「ミンコフスキー汎関数を用いた機械学習の提案」](#第14回) 10/29
-* [第13回：　Kazuhiro Terao 「End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors」](#第13回) 10/15 (ご講演は英語）
-* [第12回：　樺島祥介 「スパース線形回帰に対する半解析的ブートストラップ法」](#第12回) 10/1
-* [第11回：　藤井啓祐 「NISQ (Noisy Intermediate-Scale Quantum technology) マシンを用いた量子機械学習」](#第11回) 9/17
-* [第10回：　斎藤弘樹 「強化学習を用いたボース・アインシュタイン凝縮体の制御」](#第10回) 9/3
-* [第9回：　林祐輔「表現学習の熱力学：深層生成モデルの物理法則を求めて」](#第9回) 8/20
-* [第8回：　野村悠祐「ボルツマンマシンを用いた量子多体波動関数表現：深層ボルツマンマシンによる厳密な表現と制限ボルツマンマシンによる数値的近似表現」 ](#第8回) 8/6
-* [第7回：　本武陽一「物理学者と学習機械の効果的な協業に向けて：学習済み深層ニューラルネットワークからの解釈可能な物理法則抽出」 ](#第7回) 7/30
-* [第6回：　吉岡信行「ニューラルネットワークで探る量子多体系の表現」 ](#第6回) 7/9
-* [第5回：　福嶋健二「物理学における観測と機械学習：中性子星の事例」 ](#第5回) 6/25
-* [第4回：　唐木田亮「深層学習の数理: 統計力学的アプローチ」 ](#第4回) 6/18
-* [第3回：　ライトニングトーク](#第3回) 6/11
-* [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
-* [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
+
+2021年以前の講演は[こちら](#過去の講演)
+
 
 # 第43回
 日時: <s>7月28日10:30-11:30(JST)</s>延期<br>
@@ -144,12 +112,53 @@ Phys. Rev. B 97, 045153 (2018) [https://arxiv.org/abs/1709.01223](https://arxiv.
 　このセミナーでは、ViTおよびMLP-Mixerの現状とこれまで判明している興味深い事実、およびその欠点について議論したい。またその上で、MLP-Mixerを改善しようと試みた最近の研究についても紹介する。
 
 
+
+
+
+# 過去のワークショップ研究会
+[Deep Learning and physics2019](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/DLAP2019/)<br>
+[Deep Learning and physics2018](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto//workshop/DLAP2018/)<br>
+[Deep Learning and physics](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/tsrp/Deep_Lerning.html)
+<!--
+[Deep Learning and physics2019](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/)<br>
+[Deep Learning and physics2018](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2018/)<br>
+[Deep Learning and physics](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/tsrp/Deep_Lerning.html)
+-->
+
+
+# 過去の講演
+
+* [2021年](#2021年)
+* [2020年](#2020年)
+
+## 2021年
+
+* [第35回：　Pim de Haan 「Gauge Equivariant Mesh Convolutional Neural Networks」](#第35回) 12/9
+* [第34回：　大門俊介 「深層学習による量子指紋の解読」](#第34回) 11/25
+* [第33回：　吉野元 「深層ニューラルネットワークにおけるレプリカ対称性の破れとその空間構造」](#第33回) 11/11
+* [第32回：　山内紫 「Real-time dynamics of lattice field theories via machine learning」](#第32回) 10/28
+* [第31回：　中郷 孝祐 「PFP：材料探索のための汎用Neural Network Potential」](#第31回) 10/4(<font color="red">いつもと時間が異なります</font>)
+* [第30回：　Dimitrios Bachtis 「Quantum field-theoretic machine learning」](#第30回) 7/15
+* [第29回：　Lei Wang 「Fermi Flow: Ab-initio study of fermions at finite temperature」](#第29回) 7/1
+* [第28回：　蘆田祐人「差分進化を用いた最適なナノ熱機関の探索」](#第28回) 6/17
+* [第27回：　今泉允聡「深層学習の汎化誤差解析：損失面由来の暗黙的正則化と深層モデルの二重降下」](#第27回) 6/3
+* [第26回：　パネルディスカッション「物理 x 深層学習 の未来」](#第26回) 5/20
+* [第25回：　田中章詞「識別器による最適輸送」](#第25回) 5/6
+* [第24回：　堀江正信「物理シミュレーションのための同変グラフニューラルネットワーク」](#第24回) 4/22
+* [第23回：　富谷昭夫「ゲージ共変なニューラルネットと4次元非可換ゲージ理論への応用」](#第23回) 4/8
+* [第22回：　松原祟「エネルギー保存則など望ましい性質を持つ深層学習の設計について」](#第22回) 3/11
+* [第21回：　一木輝久「ニューラルネットワークによる結び目の標準化」](#第21回) 2/25
+* [第20回：　Hidenori Tanaka & Daniel Kunin「Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics」](#第20回) 2/18
+* [第19回：　James Halverson「Neural Networks and Quantum Field Theory」](#第19回) 1/28
+* [第18回：　鈴木大慈「無限次元勾配ランジュバン動力学による深層学習の最適化理論と汎化誤差解析」](#第18回) 1/14
+
 # 第35回
 日時: 12月9日16:30-17:30(JST)<br>
 発表者: Pim de Haan (Univ. of Amsterdam)<br>
 発表題目: Gauge Equivariant Mesh Convolutional Neural Networks<br>
 [講演スライド](./slides/GECNN.pdf)<br>
 概要：Convolutional neural networks are widely successful in deep learning on image datasets. However, some data, like that resulting from MRI scans, do not reside on a square grid, but instead live on curved manifolds, discretized as meshes. A key issue on such meshes is that they lack a local notion of direction and hence the convolutional kernel cannot be canonically oriented. By doing message passing on the mesh and defining a groupoid of similar messages that should share weights, we propose a gauge equivariant method of building a CNN on such meshes that is direction-aware, yet agnostic to how the directions are chosen. It is scalable, invariant to how the mesh is rotated, and performs state-of-the-art on a medical application for estimating blood flow.
+
 
 # 第34回
 日時: 11月25日10:30-11:30(JST)<br>
@@ -318,6 +327,28 @@ Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
 余剰誤差の速い収束レートが示せる．また，本手法によって得られた
 推定量の予測誤差が任意の線形推定量を優越するような例が作れること
 も示し，深層学習の有用性を最適化の保証付きで示す．
+
+
+
+## 2020年
+* [第17回：　本間希樹「EHTによるブラックホールの撮像とスパースモデリング」](#第17回) 12/10
+* [第16回：　入門講義「機械学習と物理」](#第16回) 11/26
+* [第15回：　森貴司 「深層学習の汎化の謎をめぐって」](#第15回) 11/12
+* [第14回：　野尻美保子 「ミンコフスキー汎関数を用いた機械学習の提案」](#第14回) 10/29
+* [第13回：　Kazuhiro Terao 「End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors」](#第13回) 10/15 (ご講演は英語）
+* [第12回：　樺島祥介 「スパース線形回帰に対する半解析的ブートストラップ法」](#第12回) 10/1
+* [第11回：　藤井啓祐 「NISQ (Noisy Intermediate-Scale Quantum technology) マシンを用いた量子機械学習」](#第11回) 9/17
+* [第10回：　斎藤弘樹 「強化学習を用いたボース・アインシュタイン凝縮体の制御」](#第10回) 9/3
+* [第9回：　林祐輔「表現学習の熱力学：深層生成モデルの物理法則を求めて」](#第9回) 8/20
+* [第8回：　野村悠祐「ボルツマンマシンを用いた量子多体波動関数表現：深層ボルツマンマシンによる厳密な表現と制限ボルツマンマシンによる数値的近似表現」 ](#第8回) 8/6
+* [第7回：　本武陽一「物理学者と学習機械の効果的な協業に向けて：学習済み深層ニューラルネットワークからの解釈可能な物理法則抽出」 ](#第7回) 7/30
+* [第6回：　吉岡信行「ニューラルネットワークで探る量子多体系の表現」 ](#第6回) 7/9
+* [第5回：　福嶋健二「物理学における観測と機械学習：中性子星の事例」 ](#第5回) 6/25
+* [第4回：　唐木田亮「深層学習の数理: 統計力学的アプローチ」 ](#第4回) 6/18
+* [第3回：　ライトニングトーク](#第3回) 6/11
+* [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
+* [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
+
 
 # 第17回
 日時: 12月10日10:30-11:30(JST)<br>
@@ -600,14 +631,3 @@ Published in: Phys.Rev.D 98 (2018) 10, 106014 • e-Print: 1809.10536 [hep-th]<b
 
 [1] J. Liu, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 041101(R) (2017).; J. Liu, H. Shen, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 241104(R) (2017).; YN, H, Shen, Y. Qi, J. Liu, and L. Fu, Phys. Rev. B 96, 161102(R) (2017)<br>
 [2] YN, M. Okumura, K. Kobayashi and M. Shiga, arXiv:1909.02255<br>
-
-# 過去のワークショップ研究会
-[Deep Learning and physics2019](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/DLAP2019/)<br>
-[Deep Learning and physics2018](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto//workshop/DLAP2018/)<br>
-[Deep Learning and physics](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/tsrp/Deep_Lerning.html)
-<!--
-[Deep Learning and physics2019](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/)<br>
-[Deep Learning and physics2018](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2018/)<br>
-[Deep Learning and physics](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/tsrp/Deep_Lerning.html)
--->
-
