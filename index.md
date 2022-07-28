@@ -112,8 +112,7 @@ Phys. Rev. B 97, 045153 (2018) [https://arxiv.org/abs/1709.01223](https://arxiv.
 　このセミナーでは、ViTおよびMLP-Mixerの現状とこれまで判明している興味深い事実、およびその欠点について議論したい。またその上で、MLP-Mixerを改善しようと試みた最近の研究についても紹介する。
 
 
-
-
+---
 
 # 過去のワークショップ研究会
 [Deep Learning and physics2019](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/DLAP2019/)<br>
@@ -125,6 +124,7 @@ Phys. Rev. B 97, 045153 (2018) [https://arxiv.org/abs/1709.01223](https://arxiv.
 [Deep Learning and physics](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/tsrp/Deep_Lerning.html)
 -->
 
+---
 
 # 過去の講演
 
