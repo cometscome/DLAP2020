@@ -23,7 +23,7 @@
 
 本セミナーシリーズは、科学研究費補助金新学術領域研究「[次世代物質探索のための離散幾何学](https://www.math-materials.jp)」の補助を受けております。
 
-* [第43回：　石川 勲 「可逆ニューラルネットのSobolev空間における普遍性について」](#第43回) 7/26
+* [第43回：　石川勲 「可逆ニューラルネットのSobolev空間における普遍性について」](#第43回) 9/15
 * [第42回：　富谷 昭夫 「Finite temperature and density gauge theory with classical-quantum hybrid algorithm」](#第42回) 6/23
 * [第41回：　園田 翔 「一般空間上の積分表現ニューラルネットとリッジレット変換」](#第41回) 6/9
 * [第40回：　Shirley Ho 「INTERPRETABLE LEARNING IN PHYSICAL SYSTEMS」](#第40回) 5/26
@@ -36,7 +36,7 @@
 
 
 # 第43回
-日時: <s>7月28日10:30-11:30(JST)</s>延期<br>
+日時: 9月15日10:30-11:30(JST)<br>
 発表者: 石川勲 (愛媛大学)<br>
 発表題目: 可逆ニューラルネットのSobolev空間における普遍性について<br>
 概要：
