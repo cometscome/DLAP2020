@@ -23,6 +23,7 @@
 
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
+* [第44回：　Marcel Rodekamp 「Mitigating the Hubbard Sign Problem. A Novel Application of Machine Learning」](#第45回) 11/10 <font color="red"> いつもと開催時間が異なります </font>
 * [第44回：　船井正太郎 「機械学習が抽出する特徴とイジング模型の相転移点」](#第44回) 10/27
 * [第43回：　石川勲 「可逆ニューラルネットのSobolev空間における普遍性について」](#第43回) 9/15
 * [第42回：　富谷 昭夫 「Finite temperature and density gauge theory with classical-quantum hybrid algorithm」](#第42回) 6/23
@@ -34,6 +35,26 @@
 * [第36回：　瀧 雅人 「Computer VisionにおけるTransformerとMLP-Mixerの現状」](#第36回) 1/13
 
 2021年以前の講演は[こちら](#過去の講演)
+
+# 第45回
+日時: 11月10日16:30-17:30(JST)<br>
+発表者: Marcel Rodekamp (IAS, Julich and Julich, Forschungszentrum and Bonn U., HISKP),<br>
+発表題目: Mitigating the Hubbard Sign Problem. A Novel Application of Machine Learning<br>
+概要：
+Many fascinating systems suffer from a severe (complex action) sign
+problem preventing us from simulating them with Markov Chain Monte
+Carlo. One promising method to alleviate the sign problem is the
+transformation towards Lefschetz Thimbles. Unfortunately, this suffers
+from poor scaling originating in numerically integrating of flow
+equations and evaluation of an induced Jacobian. In this talk we present
+a Neural Network architecture based on complex-valued affine coupling
+layers. This network performs such a transformation efficiently,
+ultimately allowing simulation of systems with a severe sign problem. We
+test this method within the Hubbard Model at finite chemical potential,
+modelling strongly correlated electrons on a spatial lattice of ions.
+<br>
+参考文献：<br>
+[1] Marcel Rodekamp et al., Phys.Rev.B 106 (2022) 12, 125139
 
 # 第44回
 日時: 10月27日10:30-11:30(JST)<br>
