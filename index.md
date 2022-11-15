@@ -23,7 +23,7 @@
 
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
-* [第44回：　Marcel Rodekamp 「Mitigating the Hubbard Sign Problem. A Novel Application of Machine Learning」](#第45回) 11/10 <font color="red"> いつもと開催時間が異なります </font>
+* [第45回：　Marcel Rodekamp 「Mitigating the Hubbard Sign Problem. A Novel Application of Machine Learning」](#第45回) 11/10 <font color="red"> いつもと開催時間が異なります </font>
 * [第44回：　船井正太郎 「機械学習が抽出する特徴とイジング模型の相転移点」](#第44回) 10/27
 * [第43回：　石川勲 「可逆ニューラルネットのSobolev空間における普遍性について」](#第43回) 9/15
 * [第42回：　富谷 昭夫 「Finite temperature and density gauge theory with classical-quantum hybrid algorithm」](#第42回) 6/23
