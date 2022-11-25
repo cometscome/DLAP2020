@@ -23,8 +23,8 @@
 
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
-* [第47回：　神野隆介 (ファインマン図に出てくる高次ループの積分関連) ](#第47回) 12/22
-* [第46回：　村尾美緒 (完全量子学習関連) ](#第46回) 12/8
+* [第47回：　神野隆介 「Machine Learning Post-Minkowskian Integrals」 ](#第47回) 12/22
+* [第46回：　村尾美緒 「完全量子学習: 未知ユニタリ変換の比較アルゴリズムと逆変換化アルゴリズム」 ](#第46回) 12/8
 * [第45回：　Marcel Rodekamp 「Mitigating the Hubbard Sign Problem. A Novel Application of Machine Learning」](#第45回) 11/10 <font color="red"> いつもと開催時間が異なります </font>
 * [第44回：　船井正太郎 「機械学習が抽出する特徴とイジング模型の相転移点」](#第44回) 10/27
 * [第43回：　石川勲 「可逆ニューラルネットのSobolev空間における普遍性について」](#第43回) 9/15
@@ -41,8 +41,9 @@
 # 第47回
 日時: 12月22日10:30-11:30(JST)<br>
 発表者: 神野隆介 (東大ビッグバン宇宙国際研究センター)<br>
-発表題目: (ファインマン図に出てくる高次ループの積分関連)<br>
-概要：TBA <br>
+発表題目: Machine Learning Post-Minkowskian Integrals<br>
+概要：We study a neural network framework for the numerical evaluation of Feynman loop integrals, which are fundamental building blocks for perturbative computations of physical observables in gauge and gravity theories. We show that such a machine learning approach improves the convergence of the Monte Carlo algorithm for high-precision evaluation of multi-dimensional integrals compared to traditional algorithms. In particular, we use a neural network to improve the importance sampling. For a set of representative integrals appearing in the computation of the conservative dynamics for a compact binary system in General Relativity, we perform a quantitative comparison between the Monte Carlo integrators VEGAS and i-flow, an integrator based on neural network sampling.<br>
+[1] Ryusuke Jinno, Gregor Kälin, Zhengwen Liu, Henrique Rubira, arXiv:2209.01091 <br>
 
 # 第46回
 日時: 12月8日10:30-11:30(JST)<br>
