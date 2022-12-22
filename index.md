@@ -70,6 +70,7 @@
 日時: 12月22日10:30-11:30(JST)<br>
 発表者: 神野隆介 (東大ビッグバン宇宙国際研究センター)<br>
 発表題目: Machine Learning Post-Minkowskian Integrals<br>
+[講演スライド](./slides/Jinno.pdf)<br>
 概要：We study a neural network framework for the numerical evaluation of Feynman loop integrals, which are fundamental building blocks for perturbative computations of physical observables in gauge and gravity theories. We show that such a machine learning approach improves the convergence of the Monte Carlo algorithm for high-precision evaluation of multi-dimensional integrals compared to traditional algorithms. In particular, we use a neural network to improve the importance sampling. For a set of representative integrals appearing in the computation of the conservative dynamics for a compact binary system in General Relativity, we perform a quantitative comparison between the Monte Carlo integrators VEGAS and i-flow, an integrator based on neural network sampling.<br>
 [1] Ryusuke Jinno, Gregor Kälin, Zhengwen Liu, Henrique Rubira, arXiv:2209.01091 <br>
 
