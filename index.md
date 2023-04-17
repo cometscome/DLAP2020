@@ -23,6 +23,46 @@
 
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
+* [第50回：　永井佑紀 「機械学習分子シミュレーションを用いた、準結晶における高次元性の解析」 ](#第50回) 4/27
+
+2022年以前の講演は[こちら](#過去の講演)
+
+# 第50回
+日時: 4月27日10:30-11:30(JST)<br>
+発表者: 永井佑紀 (国立研究開発法人日本原子力研究開発機構　システム計算科学センター) <br>
+発表題目: 機械学習分子シミュレーションを用いた、準結晶における高次元性の解析<br>
+概要：本講演では、機械学習分子シミュレーションという最近非常に盛んに研究がなされている分野を概観するとともに、その応用例である準結晶における高次元性の解析について紹介する。<br>
+機械学習分子シミュレーション：現実世界は原子の集合から成り立っている。つまり、原子の集合の間の相互作用がわかり、それぞれの運動をシミュレーションすることができれば、物質、材料、薬、生物、あらゆることが計算機の上で再現できることになる。しかしながら、原子の性質は量子力学が関わっているため、その相互作用を正確に評価するには極めて難しい量子多体問題を解く必要がある。さらに、原子の数は非常に多く、計算は非常に困難である。そこで、計算の困難な相互作用の評価の部分を機械学習に置き換えることで、従来の計算を数千倍以上の高速化する機械学習分子シミュレーションが登場した。本講演では、機械学習の物理学への応用として有用な例として、分野外の人にもわかりやすく機械学習分子シミュレーションについて紹介する。<br>
+準結晶：準結晶とは、秩序だった結晶構造を持つにもかかわらず周期性のない物質である。これは単なる空想上の物質ではなく、1982年にDan Shechtman博士(2011年ノーベル化学賞)が発見し、結晶では決して生じない5回及び10回対称性を持つ電子線回折パターンを実験的に観測されている。また、準結晶の結晶構造は、高次元(5次元や6次元)空間における超格子の現実空間(3次元)への射影として理解することができる。本講演では、この高次元性が実際に現実世界の観測可能な物理量に反映されていることを示すため、実験と機械学習分子シミュレーションを用いて比熱を解析した結果について報告する[1]。
+
+参考文献
+
+[1] YN, Yutaka Iwasaki, Koichi Kitahara, Yoshiki Takagiwa, Kaoru Kimura, Motoyuki Shiga, “Atomic diffusion due to hyperatomic fluctuation for quasicrystals”, arXiv:2302.14441<br>
+
+
+
+---
+
+# 過去のワークショップ研究会
+[Deep Learning and physics2019](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/DLAP2019/)<br>
+[Deep Learning and physics2018](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto//workshop/DLAP2018/)<br>
+[Deep Learning and physics](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/tsrp/Deep_Lerning.html)
+<!--
+[Deep Learning and physics2019](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/)<br>
+[Deep Learning and physics2018](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2018/)<br>
+[Deep Learning and physics](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/tsrp/Deep_Lerning.html)
+-->
+
+---
+
+# 過去の講演
+
+* [2022年](#2022年)
+* [2021年](#2021年)
+* [2020年](#2020年)
+
+## 2022年
+
 * [第49回：　坂田綾香 「近似確率伝搬法による一般化線形モデルの予測誤差表現について」 ](#第49回) 1/26
 * [第48回：　道下佳寛 「機械学習を援用した適切なフレームの探索」 ](#第48回) 1/19
 * [第47回：　神野隆介 「Machine Learning Post-Minkowskian Integrals」 ](#第47回) 12/22
@@ -37,8 +77,6 @@
 * [第38回：　橋本 幸士 「深層学習と創発時空（ホログラフィー原理）に関する文献紹介」](#第38回) 3/10
 * [第37回：　三内 顕義 「Deep learning and symmetry」](#第37回) 2/17
 * [第36回：　瀧 雅人 「Computer VisionにおけるTransformerとMLP-Mixerの現状」](#第36回) 1/13
-
-2021年以前の講演は[こちら](#過去の講演)
 
 # 第49回
 日時: 1月26日10:30-11:30(JST)<br>
@@ -198,24 +236,7 @@ Phys. Rev. B 97, 045153 (2018) [https://arxiv.org/abs/1709.01223](https://arxiv.
 　このセミナーでは、ViTおよびMLP-Mixerの現状とこれまで判明している興味深い事実、およびその欠点について議論したい。またその上で、MLP-Mixerを改善しようと試みた最近の研究についても紹介する。
 
 
----
 
-# 過去のワークショップ研究会
-[Deep Learning and physics2019](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/DLAP2019/)<br>
-[Deep Learning and physics2018](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto//workshop/DLAP2018/)<br>
-[Deep Learning and physics](http://www2.yukawa.kyoto-u.ac.jp/~koji.hashimoto/workshop/tsrp/Deep_Lerning.html)
-<!--
-[Deep Learning and physics2019](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2019/)<br>
-[Deep Learning and physics2018](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/DLAP2018/)<br>
-[Deep Learning and physics](http://kabuto.phys.sci.osaka-u.ac.jp/~koji/workshop/tsrp/Deep_Lerning.html)
--->
-
----
-
-# 過去の講演
-
-* [2021年](#2021年)
-* [2020年](#2020年)
 
 ## 2021年
 
