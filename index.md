@@ -23,10 +23,18 @@
 
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
+* [第52回：　Stefan Heusler 「The impact of machine learning on science education」](#第52回) 9/7
 * [第51回：　田中章詞 「近年の深層学習について」](#第51回) 6/1
 * [第50回：　永井佑紀 「機械学習分子シミュレーションを用いた、準結晶における高次元性の解析」 ](#第50回) 4/27
 
 2022年以前の講演は[こちら](#過去の講演)
+
+# 第52回
+日時: 9月7日10:30-11:30(JST)<br>
+発表者: Stefan Heusler (ドイツ・ミュンスター大)<br>
+発表題目: The impact of machine learning on science education<br>
+概要：Machine learning is expected to have massive impact on society in general and on the educational system in particular. In the first part of my talk, I will raise very general questions on the actual situation, as the progress in the development of machine learning is much faster than political regulations, which is also an issue from the point of view of education, as I will show with some actual examples from Germany. In the second part of my talk, I will focus on physics education and ask the question which kind of competencies will remain important for education with the advent of machine learning - both in High school and at university. With some presumably provocative statements on which activities might be reserved for human intelligence and cannot be surpassed by machine learning, I will end the talk and welcome a vivid discussion on the question how science education must adapt to this new era.<br>
+Further reading: https://www.uni-muenster.de/CeNoS/en/InterKIWWU/index.html
 
 # 第51回
 日時: 6月1日10:30-11:30(JST)<br>
