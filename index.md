@@ -32,6 +32,7 @@
 # 第52回
 日時: 9月7日10:30-11:30(JST)<br>
 発表者: Stefan Heusler (ドイツ・ミュンスター大)<br>
+[講演スライド（外部リンク）](https://padlet.com/stefanheusler/the-impact-of-machine-learning-to-science-education-9xkxzbiu9rek09br)<br>
 発表題目: The impact of machine learning on science education<br>
 概要：Machine learning is expected to have massive impact on society in general and on the educational system in particular. In the first part of my talk, I will raise very general questions on the actual situation, as the progress in the development of machine learning is much faster than political regulations, which is also an issue from the point of view of education, as I will show with some actual examples from Germany. In the second part of my talk, I will focus on physics education and ask the question which kind of competencies will remain important for education with the advent of machine learning - both in High school and at university. With some presumably provocative statements on which activities might be reserved for human intelligence and cannot be surpassed by machine learning, I will end the talk and welcome a vivid discussion on the question how science education must adapt to this new era.<br>
 Further reading: https://www.uni-muenster.de/CeNoS/en/InterKIWWU/index.html
