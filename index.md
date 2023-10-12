@@ -26,7 +26,8 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（大阪国際工科
 
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
-* [第1回領域セミナ/第53回DLAP：　橋本幸士 「Neural Polytopes」](#第53回) 10/5
+* [第2回領域セミナ/第54回DLAP：　高木志郎 「研究ができる人工知能の実現へ向けた課題の検討」](#第2回学習物理領域セミナー/第54回DLAP) 10/5
+* [第1回領域セミナ/第53回DLAP：　橋本幸士 「Neural Polytopes」](#第1回学習物理領域セミナー/第53回DLAP) 10/5
 * [第52回：　Stefan Heusler 「The impact of machine learning on science education」](#第52回) 9/7
 * [第51回：　田中章詞 「近年の深層学習について」](#第51回) 6/1
 * [第50回：　永井佑紀 「機械学習分子シミュレーションを用いた、準結晶における高次元性の解析」 ](#第50回) 4/27
@@ -52,8 +53,8 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（大阪国際工科
 
 参考文献
 
-[1](https://arxiv.org/abs/2307.00721) Koji Hashimoto, Tomoya Naito, Hisashi Naito, "Neural Polytopes", arXiv:2307.00721<br>
-[2](https://arxiv.org/abs/2302.08965) Koji Hashimoto, Tomoya Naito, Hisashi Naito, "Multi-body wave function of ground and low-lying excited states using unornamented deep neural networks", arXiv:2302.08965<br>
+[1] Koji Hashimoto, Tomoya Naito, Hisashi Naito, "Neural Polytopes", [arXiv:2307.00721](https://arxiv.org/abs/2307.00721)<br>
+[2] Koji Hashimoto, Tomoya Naito, Hisashi Naito, "Multi-body wave function of ground and low-lying excited states using unornamented deep neural networks", [arXiv:2302.08965](https://arxiv.org/abs/2302.08965)<br>
 
 # 第52回
 日時: 9月7日10:30-11:30(JST)<br>
