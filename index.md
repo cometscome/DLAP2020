@@ -12,9 +12,10 @@
 * 解約フォームは下記でございます。<br>
 [解約フォーム](https://docs.google.com/forms/d/e/1FAIpQLSePLXuRLkxVK3CdR_aZBup166mRROk5Z3Ty4zN86_7vSLON2w/viewform)
 
+<!--
 * 2021年2月以降の講演者の推薦お待ちしています<br>
 [講演者の推薦はこちら](https://docs.google.com/forms/d/e/1FAIpQLSfLv6BbJ_s5X-bKiGxaUYWALFixWi23ZRv3EcYFxUgE1R479w/viewform)
-
+-->
 
 * 参加時の表示名は「登録時の名前＠登録した機関名」に設定してください。
 * ノイズを防ぐためのミュートへご協力ください。
