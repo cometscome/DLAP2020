@@ -34,7 +34,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（大阪国際工科
 
 2022年以前の講演は[こちら](#過去の講演)
 
-# 第2回 学習物理領域セミナー / 第54回 DLAP
+# 第2回学習物理領域セミナー/第54回DLAP
 日時：10月26日10:30~11:30(JST)<br>
 発表者：高木志郎<br>
 場所（ハイブリッド）：上智大学四谷キャンパス理工学部9号館254A<br>
@@ -43,7 +43,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（大阪国際工科
 [1] Scientific Discovery in the Age of Artificial Intelligence<br>
 [2] Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
 
-# 第1回 学習物理領域セミナー / 第53回 DLAP
+# 第1回学習物理領域セミナー/第53回DLAP
 日時: 10月5日10:30-11:30(JST)<br>
 発表者: 橋本幸士 (京都大)<br>
 場所（ハイブリッド）：京都大学理学部５号館511<br>
@@ -52,7 +52,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（大阪国際工科
 概要：本講演ではまず、非構造化ディープニューラルネットワークによる機械学習を用いて、量子力学において基底状態だけでなく低励起状態の波動関数を計算する方法を提案する。同一粒子からなる系に対して、ボソニック系では対称化、フェルミオン系では反対称化を行う簡単な方法も提案する。また、得られた波動関数の解釈を通じて、離散幾何学と機械学習の橋渡しを行う。特に、ReLU活性化を持つ単純なニューラルネットワークが、様々な次元の単位球の近似として多面体を生成することを見出す。多面体の種類は、ユニット数や層数などのネットワークアーキテクチャによって制御される。様々な活性化関数に対して、多面体の一般化が得られ、これを我々はニューラル多面体と名付けた。これは多角形の滑らかな一般化であり、幾何学的双対性を示す。この発見は、機械学習によって曲面を近似する「生成離散幾何学」の研究の端緒となろう。また、重力の量子論に向けての応用についても議論する。<br>
 参考文献<br>
 [1] Koji Hashimoto, Tomoya Naito, Hisashi Naito, "Neural Polytopes", [arXiv:2307.00721](https://arxiv.org/abs/2307.00721)<br>
-[2] Koji Hashimoto, Tomoya Naito, Hisashi Naito, "Multi-body wave function of ground and low-lying excited states using unornamented deep neural networks", [arXiv:2302.08965](https://arxiv.org/abs/2302.08965)<br>
+[2] Koji Hashimoto, Tomoya Naito, Hisashi Naito, "Multi-body wave function of ground and low-lying excited states using unornamented deep neural networks", [arXiv:2302.08965](https://arxiv.org/abs/2302.08965)
 
 # 第52回
 日時: 9月7日10:30-11:30(JST)<br>
