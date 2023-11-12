@@ -26,18 +26,27 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（大阪国際工科
 
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
-* [第3回領域セミナ・第55回DLAP：　玉井敬一 「深層ニューラルネットワークと非平衡臨界現象：ディープラーニングに潜む普遍的な法則の探求」](#第3回学習物理領域セミナー第55回DLAP) 11/9
-* [第2回領域セミナ・第54回DLAP：　高木志郎 「研究ができる人工知能の実現へ向けた課題の検討」](#第2回学習物理領域セミナー第54回DLAP) 10/26
-* [第1回領域セミナ・第53回DLAP：　橋本幸士 「Neural Polytopes」](#第1回学習物理領域セミナー第53回DLAP) 10/5
-* [第52回：　Stefan Heusler 「The impact of machine learning on science education」](#第52回) 9/7
-* [第51回：　田中章詞 「近年の深層学習について」](#第51回) 6/1
-* [第50回：　永井佑紀 「機械学習分子シミュレーションを用いた、準結晶における高次元性の解析」 ](#第50回) 4/27
+* [第4回領域セミナ・第56回DLAP：　太田敏博　氏 「Hopfield/Mixer 対応：MetaFormer のより良い理解に向けて」](#第4回学習物理領域セミナー第56回DLAP) 12/8
+* [第3回領域セミナ・第55回DLAP：　玉井敬一　氏 「深層ニューラルネットワークと非平衡臨界現象：ディープラーニングに潜む普遍的な法則の探求」](#第3回学習物理領域セミナー第55回DLAP) 11/9
+* [第2回領域セミナ・第54回DLAP：　高木志郎　氏 「研究ができる人工知能の実現へ向けた課題の検討」](#第2回学習物理領域セミナー第54回DLAP) 10/26
+* [第1回領域セミナ・第53回DLAP：　橋本幸士　氏 「Neural Polytopes」](#第1回学習物理領域セミナー第53回DLAP) 10/5
+* [第52回：　Stefan Heusler　氏 「The impact of machine learning on science education」](#第52回) 9/7
+* [第51回：　田中章詞　氏 「近年の深層学習について」](#第51回) 6/1
+* [第50回：　永井佑紀　氏 「機械学習分子シミュレーションを用いた、準結晶における高次元性の解析」 ](#第50回) 4/27
 
 2022年以前の講演は[こちら](#過去の講演)
 
+# 第4回学習物理領域セミナー＋第56回DLAP
+日時：12月8日10:30~11:30(JST)<br>
+発表者：太田敏博　氏(サイバーエージェント AI Lab)<br>
+場所（ハイブリッド）：上智大学四谷キャンパス理工学部9号館254A<br>
+オンライン配信会場：京都大学理学研究科5号館511号室<br>
+発表題目：Hopfield/Mixer 対応：MetaFormer のより良い理解に向けて<br>
+概要：近年の Transformer の目覚ましい発展・応用は自然言語処理だけでなく画像認識の分野でも顕著である。Transformer において決定的な役割を果たしていると思われていた注意機構は画像認識モデルとしては必須では無いことが実験的に示唆されており、Transformer のさまざまな変種 (MetaFormers) が提案されている。一方物理学のスピングラス模型からインスパイアされた Hopfield 模型は古くから連想記憶模型として知られており、現代的 Hopfield 模型では注意機構をも内包することが明らかとなってきた。本講演ではまず Transformer と CNN の比較および Transformer の変種の代表格である MLP-Mixer を紹介したのち、 MetaFormer の統一的理解に向けて現代的 Hopfield 模型が有用であるかもしれないことを議論する。とくに MetaFormer の新しいアーキテクチャデザイン手法として Hopfield/Mixer 対応を提案し、その帰結として理論的に導出される新しい MetaFormer モデルを紹介する。最後に Hopfield/Mixer 対応の可能な拡張やその展望について述べる。
+
 # 第3回学習物理領域セミナー＋第55回DLAP
 日時：11月9日10:30~11:30(JST)<br>
-発表者：玉井敬一 (東大理・知の物理学研究センター)<br>
+発表者：玉井敬一 氏(東大理・知の物理学研究センター)<br>
 場所（ハイブリッド）：上智大学四谷キャンパス理工学部9号館254A<br>
 [講演スライド](./slides/MLPhysseminar_20231109.pdf)<br>
 発表題目：深層ニューラルネットワークと非平衡臨界現象：ディープラーニングに潜む普遍的な法則の探求<br>
@@ -55,7 +64,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（大阪国際工科
 
 # 第2回学習物理領域セミナー＋第54回DLAP
 日時：10月26日10:30~11:30(JST)<br>
-発表者：高木志郎<br>
+発表者：高木志郎　氏<br>
 場所（ハイブリッド）：上智大学四谷キャンパス理工学部9号館254A<br>
 [講演スライド](./slides/研究ができる人工知能の実現へ向けた課題の検討.pdf)<br>
 発表題目：研究ができる人工知能の実現へ向けた課題の検討<br>
@@ -65,7 +74,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（大阪国際工科
 
 # 第1回学習物理領域セミナー＋第53回DLAP
 日時: 10月5日10:30-11:30(JST)<br>
-発表者: 橋本幸士 (京都大)<br>
+発表者: 橋本幸士 氏(京都大)<br>
 場所（ハイブリッド）：京都大学理学部５号館511<br>
 [講演スライド](./slides/2310hashimoto.pdf)<br>
 発表題目: Neural Polytopes<br>
@@ -76,7 +85,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（大阪国際工科
 
 # 第52回
 日時: 9月7日10:30-11:30(JST)<br>
-発表者: Stefan Heusler (ドイツ・ミュンスター大)<br>
+発表者: Stefan Heusler 氏(ドイツ・ミュンスター大)<br>
 [講演スライド（外部リンク）](https://padlet.com/stefanheusler/the-impact-of-machine-learning-to-science-education-9xkxzbiu9rek09br)<br>
 発表題目: The impact of machine learning on science education<br>
 概要：Machine learning is expected to have massive impact on society in general and on the educational system in particular. In the first part of my talk, I will raise very general questions on the actual situation, as the progress in the development of machine learning is much faster than political regulations, which is also an issue from the point of view of education, as I will show with some actual examples from Germany. In the second part of my talk, I will focus on physics education and ask the question which kind of competencies will remain important for education with the advent of machine learning - both in High school and at university. With some presumably provocative statements on which activities might be reserved for human intelligence and cannot be surpassed by machine learning, I will end the talk and welcome a vivid discussion on the question how science education must adapt to this new era.<br>
@@ -84,7 +93,7 @@ Further reading: https://www.uni-muenster.de/CeNoS/en/InterKIWWU/index.html
 
 # 第51回
 日時: 6月1日10:30-11:30(JST)<br>
-発表者: 田中章詞 (RIKEN AIP/iTHEMS) <br>
+発表者: 田中章詞 氏(RIKEN AIP/iTHEMS) <br>
 [講演スライド](./slides/1Jun_2023_atanaka.pdf)<br>
 発表題目: 近年の深層学習について<br>
 概要：2012年ごろから大きく進展があった深層学習のテクニックですが、近年では更なる進化と、それに伴ってライブラリも並行して進化してきています。本講演ではその近年の深層学習技術の発展のオーバービューと最近の有用と思われるライブラリの説明をしたいと思います。
@@ -92,7 +101,7 @@ Further reading: https://www.uni-muenster.de/CeNoS/en/InterKIWWU/index.html
 
 # 第50回
 日時: 4月27日10:30-11:30(JST)<br>
-発表者: 永井佑紀 (国立研究開発法人日本原子力研究開発機構　システム計算科学センター) <br>
+発表者: 永井佑紀 氏(国立研究開発法人日本原子力研究開発機構　システム計算科学センター) <br>
 [講演スライド](./slides/Nagai_2023_DLAP.pdf)<br>
 発表題目: 機械学習分子シミュレーションを用いた、準結晶における高次元性の解析<br>
 概要：本講演では、機械学習分子シミュレーションという最近非常に盛んに研究がなされている分野を概観するとともに、その応用例である準結晶における高次元性の解析について紹介する。<br>
@@ -127,24 +136,24 @@ Further reading: https://www.uni-muenster.de/CeNoS/en/InterKIWWU/index.html
 
 ## 2022年
 
-* [第49回：　坂田綾香 「近似確率伝搬法による一般化線形モデルの予測誤差表現について」 ](#第49回) 1/26
-* [第48回：　道下佳寛 「機械学習を援用した適切なフレームの探索」 ](#第48回) 1/19
-* [第47回：　神野隆介 「Machine Learning Post-Minkowskian Integrals」 ](#第47回) 12/22
-* [第46回：　村尾美緒 「完全量子学習: 未知ユニタリ変換の比較アルゴリズムと逆変換化アルゴリズム」 ](#第46回) 12/8
-* [第45回：　Marcel Rodekamp 「Mitigating the Hubbard Sign Problem. A Novel Application of Machine Learning」](#第45回) 11/10 <font color="red"> いつもと開催時間が異なります </font>
-* [第44回：　船井正太郎 「機械学習が抽出する特徴とイジング模型の相転移点」](#第44回) 10/27
-* [第43回：　石川勲 「可逆ニューラルネットのSobolev空間における普遍性について」](#第43回) 9/15
-* [第42回：　富谷 昭夫 「Finite temperature and density gauge theory with classical-quantum hybrid algorithm」](#第42回) 6/23
-* [第41回：　園田 翔 「一般空間上の積分表現ニューラルネットとリッジレット変換」](#第41回) 6/9
-* [第40回：　Shirley Ho 「INTERPRETABLE LEARNING IN PHYSICAL SYSTEMS」](#第40回) 5/26
-* [第39回：　田中 章詞 「モンテカルロ法による強化学習入門」](#第39回) 5/12
-* [第38回：　橋本 幸士 「深層学習と創発時空（ホログラフィー原理）に関する文献紹介」](#第38回) 3/10
-* [第37回：　三内 顕義 「Deep learning and symmetry」](#第37回) 2/17
-* [第36回：　瀧 雅人 「Computer VisionにおけるTransformerとMLP-Mixerの現状」](#第36回) 1/13
+* [第49回：　坂田綾香　氏 「近似確率伝搬法による一般化線形モデルの予測誤差表現について」 ](#第49回) 1/26
+* [第48回：　道下佳寛　氏 「機械学習を援用した適切なフレームの探索」 ](#第48回) 1/19
+* [第47回：　神野隆介　氏 「Machine Learning Post-Minkowskian Integrals」 ](#第47回) 12/22
+* [第46回：　村尾美緒　氏 「完全量子学習: 未知ユニタリ変換の比較アルゴリズムと逆変換化アルゴリズム」 ](#第46回) 12/8
+* [第45回：　Marcel Rodekamp　氏 「Mitigating the Hubbard Sign Problem. A Novel Application of Machine Learning」](#第45回) 11/10 <font color="red"> いつもと開催時間が異なります </font>
+* [第44回：　船井正太郎　氏 「機械学習が抽出する特徴とイジング模型の相転移点」](#第44回) 10/27
+* [第43回：　石川勲　氏 「可逆ニューラルネットのSobolev空間における普遍性について」](#第43回) 9/15
+* [第42回：　富谷 昭夫　氏 「Finite temperature and density gauge theory with classical-quantum hybrid algorithm」](#第42回) 6/23
+* [第41回：　園田 翔　氏 「一般空間上の積分表現ニューラルネットとリッジレット変換」](#第41回) 6/9
+* [第40回：　Shirley Ho　氏 「INTERPRETABLE LEARNING IN PHYSICAL SYSTEMS」](#第40回) 5/26
+* [第39回：　田中 章詞　氏 「モンテカルロ法による強化学習入門」](#第39回) 5/12
+* [第38回：　橋本 幸士　氏 「深層学習と創発時空（ホログラフィー原理）に関する文献紹介」](#第38回) 3/10
+* [第37回：　三内 顕義　氏 「Deep learning and symmetry」](#第37回) 2/17
+* [第36回：　瀧 雅人　氏 「Computer VisionにおけるTransformerとMLP-Mixerの現状」](#第36回) 1/13
 
 # 第49回
 日時: 1月26日10:30-11:30(JST)<br>
-発表者: 坂田綾香 (統計数理研究所) <br>
+発表者: 坂田綾香　氏 (統計数理研究所) <br>
 [講演スライド](./slides/202301_DLAP.pdf)<br>
 発表題目: 近似確率伝搬法による一般化線形モデルの予測誤差表現について<br>
 概要：既知データから構成した統計モデルが、未知データを適切に表現(予測)できるかどうかは、統計的機械学習における中心的課題である。モデルの予測能力は、一般に予測誤差を用いて評価され、予測誤差の小さいモデルが、高い予測性能を持つ適切なモデルであると判断される。しかし予測誤差は定義から観測不可能であり、代わりに観測可能な推定量として情報量規準や交差検証誤差、Cp規準などが用いられる。これらの推定量は統計学的な漸近極限では一致するが、有限系では必ずしも一致しない。本発表では、一般化線形モデル(GLM)において、これらの予測誤差の推定量を議論する。線形モデルにおいては、予測誤差の推定量が解析的に求められる場合もあるが、GLMの場合はそのような性質は期待できない。そこで、事後分布の近似的評価方法である近似確率伝搬法(GAMP)を導入し、GLMにおける予測誤差の推定量を導出する。その結果として得られる予測誤差の推定量は、モデルパラメータの推定値の揺らぎにより与えられることを示す。この性質は伊庭[1]、渡辺[2]らにより指摘されてきたが、GAMPを用いることで予測誤差と揺らぎの間に明確な比例関係が導出できること、また線形モデルの結果を拡張した形式として解釈できることを説明する[3]。
@@ -157,7 +166,7 @@ Further reading: https://www.uni-muenster.de/CeNoS/en/InterKIWWU/index.html
 
 # 第48回
 日時: 1月19日10:30-11:30(JST)<br>
-発表者: 道下 佳寛 (理研 CEMS) <br>
+発表者: 道下 佳寛　氏 (理研 CEMS) <br>
 発表題目: 機械学習を援用した適切なフレームの探索<br>
 [講演スライド](./slides/DLaP_20230119.pdf)<br>
 近年機械学習の物理分野への応用は盛んに研究がなされているが、物理学における理論解析手法の探索に対しての機械学習の応用に関する研究は乏しい。
@@ -172,7 +181,7 @@ Further reading: https://www.uni-muenster.de/CeNoS/en/InterKIWWU/index.html
 
 # 第47回
 日時: 12月22日10:30-11:30(JST)<br>
-発表者: 神野隆介 (東大ビッグバン宇宙国際研究センター)<br>
+発表者: 神野隆介　氏 (東大ビッグバン宇宙国際研究センター)<br>
 発表題目: Machine Learning Post-Minkowskian Integrals<br>
 [講演スライド](./slides/Jinno.pdf)<br>
 概要：We study a neural network framework for the numerical evaluation of Feynman loop integrals, which are fundamental building blocks for perturbative computations of physical observables in gauge and gravity theories. We show that such a machine learning approach improves the convergence of the Monte Carlo algorithm for high-precision evaluation of multi-dimensional integrals compared to traditional algorithms. In particular, we use a neural network to improve the importance sampling. For a set of representative integrals appearing in the computation of the conservative dynamics for a compact binary system in General Relativity, we perform a quantitative comparison between the Monte Carlo integrators VEGAS and i-flow, an integrator based on neural network sampling.<br>
@@ -180,7 +189,7 @@ Further reading: https://www.uni-muenster.de/CeNoS/en/InterKIWWU/index.html
 
 # 第46回
 日時: 12月8日10:30-11:30(JST)<br>
-発表者: 村尾美緒 (東大理)<br>
+発表者: 村尾美緒　氏 (東大理)<br>
 発表題目: 完全量子学習: 未知ユニタリ変換の比較アルゴリズムと逆変換化アルゴリズム <br>
 概要：<br>
 未知の量子オブジェクト(量子状態や量子変換など)に量子コンピュータをつないで特定の性質を学習することを、量子学習(quantum learning)と呼ぶ。特に、量子オブジェクトを繰り返し量子測定することによってその完全な古典的記述を求める量子トモグラフィやその後の古典情報処理を行わず、最終的に必要な答え以外の古典情報は抽出せずに完全に量子コンピュータの内部で情報処理をするタイプの量子学習は、完全量子学習(fully-quantum learning)と呼ばれる。一般的に量子オブジェクトは系のサイズに関して指数関数的なパラメータ数を持つため、量子トモグラフィで得られた古典データに基づいた古典情報処理はコストが高い。そのため、古典情報処理を用いない完全量子学習の優位性が期待できる。まず、未知の2つのユニタリ変換が同じか違うかという情報を抽出する量子学習について、完全量子学習によって理論上最も効率的な情報抽出を行うための量子アルゴリズムを考察し、利用できる未知ユニタリ変換の回数が決められている時の最適戦略を導出したことを紹介する[1]。次に、未知ユニタリ変換を有限回利用して量子コンピュータ内で学習し、その逆変換を正確に実行する完全量子学習の量子アルゴリズムを紹介する[2]。このアルゴリズムは、物理系のハミルトニアン時間発展の『時間逆回し』に対応する。<br>
@@ -190,7 +199,7 @@ Further reading: https://www.uni-muenster.de/CeNoS/en/InterKIWWU/index.html
 
 # 第45回
 日時: 11月10日16:30-17:30(JST)<br>
-発表者: Marcel Rodekamp (IAS, Julich and Julich, Forschungszentrum and Bonn U., HISKP),<br>
+発表者: Marcel Rodekamp　氏 (IAS, Julich and Julich, Forschungszentrum and Bonn U., HISKP),<br>
 発表題目: Mitigating the Hubbard Sign Problem. A Novel Application of Machine Learning<br>
 概要：
 Many fascinating systems suffer from a severe (complex action) sign
@@ -210,7 +219,7 @@ modelling strongly correlated electrons on a spatial lattice of ions.
 
 # 第44回
 日時: 10月27日10:30-11:30(JST)<br>
-発表者: 船井正太郎 (株式会社アラヤ)<br>
+発表者: 船井正太郎　氏 (株式会社アラヤ)<br>
 発表題目: 機械学習が抽出する特徴とイジング模型の相転移点<br>
 [講演スライド](./slides/Talk_221027_funai.pdf)<br>
 概要：
@@ -224,7 +233,7 @@ modelling strongly correlated electrons on a spatial lattice of ions.
 
 # 第43回
 日時: 9月15日10:30-11:30(JST)<br>
-発表者: 石川勲 (愛媛大学)<br>
+発表者: 石川勲　氏 (愛媛大学)<br>
 発表題目: 可逆ニューラルネットのSobolev空間における普遍性について<br>
 [講演スライド](./slides/DLAP20220915.pdf)<br>
 概要：
@@ -233,7 +242,7 @@ modelling strongly correlated electrons on a spatial lattice of ions.
 
 # 第42回
 日時: 6月23日10:30-11:30(JST)<br>
-発表者: 富谷昭夫 (IPUT Osaka)<br>
+発表者: 富谷昭夫　氏 (IPUT Osaka)<br>
 発表題目: Finite temperature and density gauge theory with classical-quantum hybrid algorithm<br>
 [講演スライド](./slides/DLAP20220623pub.pdf)<br>
 概要：
@@ -249,7 +258,7 @@ modelling strongly correlated electrons on a spatial lattice of ions.
 
 # 第41回
 日時: 6月9日10:30-11:30(JST)<br>
-発表者: 園田 翔 (理研AIP)<br>
+発表者: 園田 翔　氏 (理研AIP)<br>
 発表題目: 一般空間上の積分表現ニューラルネットとリッジレット変換<br>
 [講演スライド](./slides/dlap202206sonoda.pdf)<br>
 概要：ニューラルネットが表す関数の性質を調べるには，ニューロン毎のパラメータを調べるよりも，ニューロン集団の分布を調べる方が扱いやすいことがある．前者を連続体のLagrange表示（物質表示）に対応付けるならば，後者はEuler表示（空間表示）に対応付けられる．積分表現理論は，一つの隠れ層を構成するニューロン集団を符号付き分布として定式化する解析理論である．このアプローチの強みは，ニューラルネットが表す関数fを分布関数γに対応付ける分解作用素（リッジレット変換）が積分作用素として陽に書き下せることである．リッジレット変換は1990年代にEuclid空間上の全結合層に対してMurata, Candes, Rubin によって独立に発見されていたが，今日の多様なネットワーク構造に対するリッジレット変換は未発見であった．講演者らの最近の研究により，多様体（非コンパクト対称空間）上の全結合層や，抽象ベクトル空間上の群畳み込み層に対してリッジレット変換を系統的に導出できるようになった．本講演では，その導出方法について解説する．<br>
@@ -258,13 +267,13 @@ modelling strongly correlated electrons on a spatial lattice of ions.
 
 # 第40回
 日時: 5月26日10:30-11:30(JST)<br>
-発表者: Shirley Ho (Flatiron Institute, New York University)<br>
+発表者: Shirley Ho　氏 (Flatiron Institute, New York University)<br>
 発表題目: INTERPRETABLE LEARNING IN PHYSICAL SYSTEMS<br>
 概要：This work describes how machine learning may be used to develop accurate and efficient non-linear models for complex natural systems. We combine neural networks and symbolic regression to automatically discover the governing equations and hidden properties of real physical systems from observations. We will present multiple examples ranging from solar system data to simulated cosmological dataset. More broadly this work represents a key step toward realizing the potential of machine learning for accelerating scientific discovery.
 
 # 第39回
 日時: 5月12日10:30-11:30(JST)<br>
-発表者: 田中 章詞 (RIKEN AIP/iTHEMS)<br>
+発表者: 田中 章詞　氏 (RIKEN AIP/iTHEMS)<br>
 発表題目: モンテカルロ法による強化学習入門<br>
 [講演スライド](./slides/rl_dlap.pdf)<br>
 概要：学習エージェントをある環境の下でどのように制御すべきか、という問題に対する一つのアプローチが強化学習です。今回の入門講義では学習エージェントの目的関数を導入し、それを改善してゆくプロセスが強化学習アルゴリズムであることを[1]に基づいて説明したのち、強化学習の文献でしばしば用いられる2次元の格子状環境（Grid world）を用いた実践を行います。<br>
@@ -272,7 +281,7 @@ modelling strongly correlated electrons on a spatial lattice of ions.
 
 # 第38回
 日時: 3月10日10:30-11:30(JST)<br>
-発表者: 橋本 幸士 (京大理)<br>
+発表者: 橋本 幸士　氏 (京大理)<br>
 発表題目: 深層学習と創発時空（ホログラフィー原理）に関する文献紹介<br>
 [講演ノート](./slides/DLAP_Koji_Mar10.pdf)<br>
 概要：ニューラルネットワーク自体を重力時空とみなし、深層学習をホログラフィー原理（AdS/CFT対応）とみなす一連の研究の最新成果の一つである文献[1]を紹介する。文献[1]は文献[2]でAdS/CFT対応のCFT側の量子エンタングルメントを学習データとした時空創発が行われたことの改善であるが、[1]では重力時空の量子和を試みており、量子重力理論と深層学習の間の橋渡しにチャレンジしている点が新しい。関連領域のレビューとともに、[1][2]を紹介する。<br>
@@ -285,13 +294,13 @@ Phys. Rev. B 97, 045153 (2018) [https://arxiv.org/abs/1709.01223](https://arxiv.
 
 # 第37回
 日時: 2月17日10:30-11:30(JST)<br>
-発表者: 三内 顕義 (理研AIP)<br>
+発表者: 三内 顕義　氏 (理研AIP)<br>
 発表題目: Deep learning and symmetry<br>
 概要：点群やグラフのように数学的表記が機械の入力として受け付けない形式のデータが存在する。そのようなデータを深層学習する場合に、データのベクトル化によって生じる対称性を持った表記揺れを打ち消すような深層モデルを用意し、それによって学習を行う方法が一般的である。そのようなモデルのことを不変/同変深層モデルと呼ばれる。本講演ではレイノルズ作用素と呼ばれる作用素を用いて深層ニューラルネットを不変/同変深層モデル方法、およびそれを用いたグラフを入力とするニューラルネットの構成を紹介する。
 
 # 第36回
 日時: 1月13日10:30-11:30(JST)<br>
-発表者: 瀧 雅人 (立教大)<br>
+発表者: 瀧 雅人　氏 (立教大)<br>
 発表題目: Computer VisionにおけるTransformerとMLP-Mixerの現状<br>
 [講演スライド](./slides/MLPMixer.pdf)<br>
 概要：深層学習の広範な分野での成功・高い性能の秘密は、単に深いニューラルネットを使うということではなく、ネットワーク構造のデザインにより様々な帰納バイアスを柔軟に実現できる点にある。その典型的な例は、画像タスクにおける畳み込みニューラルネット(CNN)である。この10年の画像タスクにおける深層学習の大きな成功も、CNNの持つ帰納バイアスをベースにしていると言って良い。<br>
@@ -304,28 +313,28 @@ Phys. Rev. B 97, 045153 (2018) [https://arxiv.org/abs/1709.01223](https://arxiv.
 
 ## 2021年
 
-* [第35回：　Pim de Haan 「Gauge Equivariant Mesh Convolutional Neural Networks」](#第35回) 12/9
-* [第34回：　大門俊介 「深層学習による量子指紋の解読」](#第34回) 11/25
-* [第33回：　吉野元 「深層ニューラルネットワークにおけるレプリカ対称性の破れとその空間構造」](#第33回) 11/11
-* [第32回：　山内紫 「Real-time dynamics of lattice field theories via machine learning」](#第32回) 10/28
-* [第31回：　中郷 孝祐 「PFP：材料探索のための汎用Neural Network Potential」](#第31回) 10/4(<font color="red">いつもと時間が異なります</font>)
-* [第30回：　Dimitrios Bachtis 「Quantum field-theoretic machine learning」](#第30回) 7/15
-* [第29回：　Lei Wang 「Fermi Flow: Ab-initio study of fermions at finite temperature」](#第29回) 7/1
-* [第28回：　蘆田祐人「差分進化を用いた最適なナノ熱機関の探索」](#第28回) 6/17
-* [第27回：　今泉允聡「深層学習の汎化誤差解析：損失面由来の暗黙的正則化と深層モデルの二重降下」](#第27回) 6/3
+* [第35回：　Pim de Haan　氏 「Gauge Equivariant Mesh Convolutional Neural Networks」](#第35回) 12/9
+* [第34回：　大門俊介　氏 「深層学習による量子指紋の解読」](#第34回) 11/25
+* [第33回：　吉野元　氏 「深層ニューラルネットワークにおけるレプリカ対称性の破れとその空間構造」](#第33回) 11/11
+* [第32回：　山内紫　氏 「Real-time dynamics of lattice field theories via machine learning」](#第32回) 10/28
+* [第31回：　中郷 孝祐　氏 「PFP：材料探索のための汎用Neural Network Potential」](#第31回) 10/4(<font color="red">いつもと時間が異なります</font>)
+* [第30回：　Dimitrios Bachtis　氏 「Quantum field-theoretic machine learning」](#第30回) 7/15
+* [第29回：　Lei Wang　氏 「Fermi Flow: Ab-initio study of fermions at finite temperature」](#第29回) 7/1
+* [第28回：　蘆田祐人　氏「差分進化を用いた最適なナノ熱機関の探索」](#第28回) 6/17
+* [第27回：　今泉允聡　氏「深層学習の汎化誤差解析：損失面由来の暗黙的正則化と深層モデルの二重降下」](#第27回) 6/3
 * [第26回：　パネルディスカッション「物理 x 深層学習 の未来」](#第26回) 5/20
-* [第25回：　田中章詞「識別器による最適輸送」](#第25回) 5/6
-* [第24回：　堀江正信「物理シミュレーションのための同変グラフニューラルネットワーク」](#第24回) 4/22
-* [第23回：　富谷昭夫「ゲージ共変なニューラルネットと4次元非可換ゲージ理論への応用」](#第23回) 4/8
-* [第22回：　松原祟「エネルギー保存則など望ましい性質を持つ深層学習の設計について」](#第22回) 3/11
-* [第21回：　一木輝久「ニューラルネットワークによる結び目の標準化」](#第21回) 2/25
-* [第20回：　Hidenori Tanaka & Daniel Kunin「Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics」](#第20回) 2/18
-* [第19回：　James Halverson「Neural Networks and Quantum Field Theory」](#第19回) 1/28
-* [第18回：　鈴木大慈「無限次元勾配ランジュバン動力学による深層学習の最適化理論と汎化誤差解析」](#第18回) 1/14
+* [第25回：　田中章詞　氏「識別器による最適輸送」](#第25回) 5/6
+* [第24回：　堀江正信　氏「物理シミュレーションのための同変グラフニューラルネットワーク」](#第24回) 4/22
+* [第23回：　富谷昭夫　氏「ゲージ共変なニューラルネットと4次元非可換ゲージ理論への応用」](#第23回) 4/8
+* [第22回：　松原祟　氏「エネルギー保存則など望ましい性質を持つ深層学習の設計について」](#第22回) 3/11
+* [第21回：　一木輝久　氏「ニューラルネットワークによる結び目の標準化」](#第21回) 2/25
+* [第20回：　Hidenori Tanaka　氏 & Daniel Kunin　氏「Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics」](#第20回) 2/18
+* [第19回：　James Halverson　氏「Neural Networks and Quantum Field Theory」](#第19回) 1/28
+* [第18回：　鈴木大慈　氏「無限次元勾配ランジュバン動力学による深層学習の最適化理論と汎化誤差解析」](#第18回) 1/14
 
 # 第35回
 日時: 12月9日16:30-17:30(JST)<br>
-発表者: Pim de Haan (Univ. of Amsterdam)<br>
+発表者: Pim de Haan　氏 (Univ. of Amsterdam)<br>
 発表題目: Gauge Equivariant Mesh Convolutional Neural Networks<br>
 [講演スライド](./slides/GECNN.pdf)<br>
 概要：Convolutional neural networks are widely successful in deep learning on image datasets. However, some data, like that resulting from MRI scans, do not reside on a square grid, but instead live on curved manifolds, discretized as meshes. A key issue on such meshes is that they lack a local notion of direction and hence the convolutional kernel cannot be canonically oriented. By doing message passing on the mesh and defining a groupoid of similar messages that should share weights, we propose a gauge equivariant method of building a CNN on such meshes that is direction-aware, yet agnostic to how the directions are chosen. It is scalable, invariant to how the mesh is rotated, and performs state-of-the-art on a medical application for estimating blood flow.
@@ -333,14 +342,14 @@ Phys. Rev. B 97, 045153 (2018) [https://arxiv.org/abs/1709.01223](https://arxiv.
 
 # 第34回
 日時: 11月25日10:30-11:30(JST)<br>
-発表者: 大門 俊介 (東大)<br>
+発表者: 大門 俊介　氏 (東大)<br>
 発表題目: 深層学習による量子指紋の解読<br>
 概要：ナノ量子系の電気伝導は、一般に周期性をもたない不規則な磁場依存性を示すことが知られている。この磁気伝導度ゆらぎは、試料内で電子が複雑に散乱・干渉することで引き起こされ、試料固有の振動が観測されることから「量子指紋」と呼ばれる。一方で、不規則に振動する量子指紋を解読することは従来の解析手法では困難であり、ミクロな内部情報を抽出することはできなかった。そこで本研究では、量子指紋を解読可能な深層生成ネットワークを開発し、複雑な磁気伝導度ゆらぎからミクロな内部情報の抽出に挑戦した。講演では、開発ネットワークによる試料のミクロ構造および量子干渉情報の生成と、実験データへの応用について報告する。
 
 
 # 第33回
 日時: 11月11日10:30-11:30(JST)<br>
-発表者: 吉野 元（阪大）<br>
+発表者: 吉野 元　氏（阪大）<br>
 発表題目:深層ニューラルネットワークにおけるレプリカ対称性の破れとその空間構造<br>
 [講演スライド](./slides/yoshino-dlap2021.pdf)<br>
 概要：G. Parisiによってスピングラスにおいて発見されたレプリカ対称性の破れ(RSB)[1]は、
@@ -352,7 +361,7 @@ https://www.nobelprize.org/uploads/2021/10/sciback_fy_en_21.pdf<br>
 
 # 第32回
 日時: 10月28日10:30-11:30(JST)<br>
-発表者: [山内紫](https://inspirehep.net/authors/1760376)（メリーランド大）<br>
+発表者: [山内紫　氏](https://inspirehep.net/authors/1760376)（メリーランド大）<br>
 [講演スライド](./slides/AI_Japan_10_2021.pdf)<br>
 発表題目:Real-time dynamics of lattice field theories via machine learning (https://inspirehep.net/literature/1841031 related)<br>
 （ご講演は英語）<br>
@@ -360,7 +369,7 @@ https://www.nobelprize.org/uploads/2021/10/sciback_fy_en_21.pdf<br>
 
 # 第31回
 日時：2021年10月4日16:00- (<font color="red">いつもと時間が異なります</font>)<br>
-講演者：中郷 孝祐（PFN)<br>
+講演者：中郷 孝祐　氏（PFN)<br>
 [講演スライド](https://www.slideshare.net/pfi/pfpneural-network-potential-2021104-qcmsr-dlap)<br>
 発表題目：PFP：材料探索のための汎用Neural Network Potential<br>
 ([Quantum Computational Materials Science Roundtable](https://shinaoka.github.io/QCMSR/)との共催です)<br>
@@ -371,14 +380,14 @@ Neural Network Potential (NNP)は、Neural Network を用いて分子動力学�
 
 # 第30回
 日時: 7月15日10:30-11:30(JST)<br>
-発表者: Dimitrios Bachtis (Swansea University)<br>
+発表者: Dimitrios Bachtis　氏 (Swansea University)<br>
 発表題目:Quantum field-theoretic machine learning <br>
 概要：
 The precise equivalence between discretized Euclidean field theories and a certain class of probabilistic graphical models, namely the mathematical framework of Markov random fields, opens up the opportunity to investigate machine learning from the perspective of quantum field theory. In this talk we will demonstrate, through the Hammersley-Clifford theorem, that the $\phi^{4}$ scalar field theory on a square lattice satisfies the local Markov property and can therefore be recast as a Markov random field. We will then derive from the $\phi^{4}$ theory machine learning algorithms and neural networks which can be viewed as generalizations of conventional neural network architectures. Finally, we will conclude by presenting applications based on the minimization of an asymmetric distance between the probability distribution of the $\phi^{4}$ machine learning algorithms and that of target probability distributions.<br>
 
 # 第29回
 日時: 7月1日10:30-11:30(JST)<br>
-発表者: Lei Wang (Chinese Academy of Sciences)<br>
+発表者: Lei Wang　氏 (Chinese Academy of Sciences)<br>
 [講演スライド](./slides/Coulomb_gas-DLAP.pdf)<br>
 発表題目:Fermi Flow: Ab-initio study of fermions at finite temperature <br>
 概要：
@@ -386,7 +395,7 @@ Fermi Flow is a variational free energy approach to thermal properties of intera
 
 # 第28回
 日時: 6月17日10:30-11:30(JST)<br>
-発表者: 蘆田祐人（東大）<br>
+発表者: 蘆田祐人　氏（東大）<br>
 [講演スライド](./slides/DL_Physics_ashida.pdf)<br>
 発表題目:差分進化を用いた最適なナノ熱機関の探索<br>
 概要：最適な熱機関を探索する試みはカルノーの古典的な仕事以来、熱統計力学の中心的な課題の一つである。本講演では、進化的計算の一つである差分進化と呼ばれる手法を用いて、相互作用するナノ熱電系のうち熱力学的効率・パワーの意味で「最適」な熱機関を同定する試み[1]について紹介する。（時間が許せば）ベイズ推定の超解像推定への応用に関する研究についても簡単に紹介する。<br>
@@ -394,7 +403,7 @@ Fermi Flow is a variational free energy approach to thermal properties of intera
 
 # 第27回
 日時: 6月3日10:30-11:30(JST)<br>
-発表者: 今泉允聡（東京大学 先進科学研究機構）<br>
+発表者: 今泉允聡　氏（東京大学 先進科学研究機構）<br>
 発表題目: 深層学習の汎化誤差解析：損失面由来の暗黙的正則化と深層モデルの二重降下<br>
 概要：深層学習が高い汎化性能を達成するが、その原理の理論的解明は未だ発展途上の課題である。本講演では深層学習の性能を記述する、(i)損失面由来の暗黙的正則化、(ii)深層モデルのための二重降下、の2つの理論研究成果を紹介する。<br>
 (i)暗黙的正則化は、学習アルゴリズムがニューラルネットワークモデルの自由度を暗黙的に制約することで、深層学習の過適合が防がれていることを主張する。ただし、深層ニューラルネットワークで実現する暗黙的正則化は明らかではなく、有力であるとされていた正則化の仮説（零点や学習初期値近傍）は近年の研究で強い批判を受けている。本研究では、深層ニューラルネットワークの損失面が多くの局所最小値を持ちかつ一定の仮定を満たすとき、この形状が学習アルゴリズム（確率的勾配降下法）の行動を制約し正則化を実現することを理論的に示す。またこのとき、深層ニューラルネットワークが正則化され、この汎化誤差がパラメータ数に依存しない上限を持つことを示す。<br>
@@ -403,13 +412,13 @@ Fermi Flow is a variational free energy approach to thermal properties of intera
 # 第26回
 日時: 5月20日10:30-11:30(JST)<br>
 パネルディスカッション: テーマ「物理 x 深層学習 の未来」<br>
-パネラー: 大槻東巳（上智大理工）、樺島祥介(東大理／知の物理学研究センター)、田中章詞（理研iTHEMS/AIP 慶応数理）、富谷昭夫（理研BNL）、永井佑紀(原子力機構)<br>
+パネラー: 大槻東巳　氏（上智大理工）、樺島祥介(東大理／知の物理学研究センター)、田中章詞（理研iTHEMS/AIP 慶応数理）、富谷昭夫（理研BNL）、永井佑紀(原子力機構)<br>
 情報提供: 野尻美保子(高エネルギー加速器研究機構)、福嶋健二 (東大理)<br>
 概要: 2017年に開始された"Deep learning and physics"会合は、現在およそ1000名の登録者の方々が集うコミュニティに成長しました。そこで、これまでの「物理 x 機械学習」の研究の進展を振り返り、これからの研究の進展の可能性と方向を議論する機会を設けます。パネラーの方々そして情報提供の方々から今後の可能性についてプレゼンをいただき、それを元にパネラー間そして聴衆の方々と議論をすることで、これからの研究を加速する種とし、本コミュニティでの問題共有を行うとともに、チャンレンジする大きな課題を明確化します。
 
 # 第25回
 日時: 5月6日10:30-11:30(JST)<br>
-発表者: 田中章詞（理研iTHEMS/AIP 慶応数理）<br>
+発表者: 田中章詞　氏（理研iTHEMS/AIP 慶応数理）<br>
 [講演スライド](./slides/20210506_atanaka.pdf)<br>
 発表題目:識別器による最適輸送<br>
 概要:深層学習を用いた潜在変数モデルの代表的な二つの例として、変分自己符号化器と敵対的生成ネットワークが知られています。これらは共に二つのネットワークを訓練するモデルです。変分自己符号化器は画像などのデータを潜在変数にエンコードする符号化器と、それをデコードして画像に戻す復号化器から構成されます。敵対的生成ネットワークは潜在変数から新たな画像を作り出す生成器と、それを本物と見分ける識別器から構成されます。変分自己符号化器ではそれぞれのネットワークが訓練後も明確な応用（符号化、復号化）を持ちますが、敵対的生成ネットワークの識別器は一見明確な応用先を持たないように思えます。本講演では最適輸送理論のアイデアを借用することで識別器を用いて生成器の画像生成の品質改善が可能[1]なことと、その他の識別器の応用について説明します。<br>
@@ -417,7 +426,7 @@ Fermi Flow is a variational free energy approach to thermal properties of intera
 
 # 第24回
 日時: 4月22日10:30-11:30(JST)<br>
-発表者: 堀江正信（株式会社科学計算総合研究所、筑波大学システム情報工学研究群）<br>
+発表者: 堀江正信　氏（株式会社科学計算総合研究所、筑波大学システム情報工学研究群）<br>
 [講演スライド](./slides/isogcn.pdf)<br>
 発表題目:物理シミュレーションのための同変グラフニューラルネットワーク
 <br> 
@@ -427,7 +436,7 @@ Fermi Flow is a variational free energy approach to thermal properties of intera
 
 # 第23回
 日時: 4月8日10:30-11:30(JST)<br>
-発表者: 富谷昭夫（理研BNL）<br>
+発表者: 富谷昭夫　氏（理研BNL）<br>
 [講演スライド](./slides/cov-nn-dlap.pdf)<br>
 発表題目:ゲージ共変なニューラルネットと4次元非可換ゲージ理論への応用（Gauge covariant neural network for 4 dimensional non-abelian gauge theory）
 <br> 
@@ -436,7 +445,7 @@ Fermi Flow is a variational free energy approach to thermal properties of intera
 
 # 第22回
 日時: 3月11日10:30-11:30(JST)<br>
-発表者: 松原祟（大阪大学大学院基礎工学研究科）<br>
+発表者: 松原祟　氏（大阪大学大学院基礎工学研究科）<br>
 [講演スライドweb版](./slides/Matsubara_web.pdf)<br>
 発表題目: エネルギー保存則など望ましい性質を持つ深層学習の設計について<br>
 概要: "深い"ニューラルネットワークである深層学習は高い柔軟性を持ち，大規模なデータを学習することで，自動的に高度な意思決定システムを構築できるのだと説明されている．しかし，実際に深層学習が注目される契機となったのは畳み込みニューラルネットワークであり，平行移動不変性という特殊な性質を持っている．この性質によって，対象の位置のずれや微小な変形に対して堅牢な識別が可能になっている．類似したアイデアは，データの集合を入力として受け取るDeep Setsや，ノード間の順番を考慮しないグラフ畳み込みにも見られ，それぞれの分野で高い性能を発揮している．成功した深層学習は，ノーフリーランチ定理そのままに，何らかの性質を持つよう設計されている．<br>
@@ -446,7 +455,7 @@ Fermi Flow is a variational free energy approach to thermal properties of intera
 
 # 第21回
 日時: 2月25日10:30-11:30(JST)<br>
-発表者: 一木輝久（名古屋大学未来社会創造機構）<br>
+発表者: 一木輝久　氏（名古屋大学未来社会創造機構）<br>
 発表題目: ニューラルネットワークによる結び目の標準化<br>
 概要: 典型的なニューラルネットワークはaffine変換と活性化関数を繰り返すことで実装されている．したがって活性化関数が狭義単調な連続関数の場合、ニューラルネットワークは入力データ空間の位相的性質を保存する変換を表現していることになる[1, 2]．そこで本講演ではニューラルネットワークを、トポロジーを不変に保つ変形を行う変換器として利用することを提唱する．具体的には結び目の上に配置した荷電粒子の反発エネルギーを最小化することによって、グチャグチャに折りたたまれた「汚い」結び目を、よりエネルギーの低い「標準的な」結び目へ変形するようニューラルネットワークの学習を行う．荷電粒子の物理モデルに勾配法などを適用すればニューラルネットワークは必要ないように思われるが、純粋な物理モデルで長さ一定の紐の上に束縛された粒子の運動を数値的に取り扱うのは容易ではない．このような利点を踏まえ、ニューラルネットワークは結び目を分類できるだろうか？という問いに対する取り組みを紹介する．<br>
 [1] C. Olah, “Neural Networks, manifolds, and topology”, Blog post (2014).<br>
@@ -455,8 +464,8 @@ Fermi Flow is a variational free energy approach to thermal properties of intera
 
 # 第20回
 日時: 2月18日10:30-11:30(JST)<br>
-発表者: Hidenori Tanaka (Group Head & Senior Scientist at NTT Physics & Informatics Laboratories,Visiting Scholar at Stanford University)<br>
-Daniel Kunin (Stanford University)<br>
+発表者: Hidenori Tanaka　氏 (Group Head & Senior Scientist at NTT Physics & Informatics Laboratories,Visiting Scholar at Stanford University)<br>
+Daniel Kunin　氏 (Stanford University)<br>
 [Slide](./slides/Neural_Mechanics_slides.pdf)<br>
 発表題目: Neural Mechanics: Symmetry and Broken Conservation Laws in Deep Learning Dynamics<br>
 （ご講演は英語）<br>
@@ -470,7 +479,7 @@ Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
 
 # 第19回
 日時: 1月28日10:30-11:30(JST)<br>
-発表者: James Halverson (Northeastern University, NSF AI Institute for Artificial Intelligence and Fundamental Interactions, co-organizes of Physics ∩ ML)<br>
+発表者: James Halverson　氏 (Northeastern University, NSF AI Institute for Artificial Intelligence and Fundamental Interactions, co-organizes of Physics ∩ ML)<br>
 [講演スライド](./slides/NN-QFT_DLAP.pdf)<br>
 発表題目: Neural Networks and Quantum Field Theory<br>
 （ご講演は英語）<br>
@@ -479,7 +488,7 @@ Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
 
 # 第18回
 日時: 1月14日10:30-11:30(JST)<br>
-発表者: 鈴木大慈(東京大学大学院 情報理工学系研究科数理情報学専攻)<br>
+発表者: 鈴木大慈　氏(東京大学大学院 情報理工学系研究科数理情報学専攻)<br>
 [講演スライド](./slides/Physics2021_public.pdf)<br>
 発表題目: 無限次元勾配ランジュバン動力学による深層学習の最適化理論と汎化誤差解析<br>
 概要: これまで統計的学習理論の枠組みにおいて深層学習の優位性が様々な
@@ -502,28 +511,28 @@ Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
 
 
 ## 2020年
-* [第17回：　本間希樹「EHTによるブラックホールの撮像とスパースモデリング」](#第17回) 12/10
+* [第17回：　本間希樹　氏「EHTによるブラックホールの撮像とスパースモデリング」](#第17回) 12/10
 * [第16回：　入門講義「機械学習と物理」](#第16回) 11/26
-* [第15回：　森貴司 「深層学習の汎化の謎をめぐって」](#第15回) 11/12
-* [第14回：　野尻美保子 「ミンコフスキー汎関数を用いた機械学習の提案」](#第14回) 10/29
-* [第13回：　Kazuhiro Terao 「End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors」](#第13回) 10/15 (ご講演は英語）
-* [第12回：　樺島祥介 「スパース線形回帰に対する半解析的ブートストラップ法」](#第12回) 10/1
-* [第11回：　藤井啓祐 「NISQ (Noisy Intermediate-Scale Quantum technology) マシンを用いた量子機械学習」](#第11回) 9/17
-* [第10回：　斎藤弘樹 「強化学習を用いたボース・アインシュタイン凝縮体の制御」](#第10回) 9/3
-* [第9回：　林祐輔「表現学習の熱力学：深層生成モデルの物理法則を求めて」](#第9回) 8/20
-* [第8回：　野村悠祐「ボルツマンマシンを用いた量子多体波動関数表現：深層ボルツマンマシンによる厳密な表現と制限ボルツマンマシンによる数値的近似表現」 ](#第8回) 8/6
-* [第7回：　本武陽一「物理学者と学習機械の効果的な協業に向けて：学習済み深層ニューラルネットワークからの解釈可能な物理法則抽出」 ](#第7回) 7/30
-* [第6回：　吉岡信行「ニューラルネットワークで探る量子多体系の表現」 ](#第6回) 7/9
-* [第5回：　福嶋健二「物理学における観測と機械学習：中性子星の事例」 ](#第5回) 6/25
-* [第4回：　唐木田亮「深層学習の数理: 統計力学的アプローチ」 ](#第4回) 6/18
+* [第15回：　森貴司　氏 「深層学習の汎化の謎をめぐって」](#第15回) 11/12
+* [第14回：　野尻美保子　氏 「ミンコフスキー汎関数を用いた機械学習の提案」](#第14回) 10/29
+* [第13回：　Kazuhiro Terao　氏 「End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors」](#第13回) 10/15 (ご講演は英語）
+* [第12回：　樺島祥介　氏 「スパース線形回帰に対する半解析的ブートストラップ法」](#第12回) 10/1
+* [第11回：　藤井啓祐　氏 「NISQ (Noisy Intermediate-Scale Quantum technology) マシンを用いた量子機械学習」](#第11回) 9/17
+* [第10回：　斎藤弘樹　氏 「強化学習を用いたボース・アインシュタイン凝縮体の制御」](#第10回) 9/3
+* [第9回：　林祐輔　氏「表現学習の熱力学：深層生成モデルの物理法則を求めて」](#第9回) 8/20
+* [第8回：　野村悠祐　氏「ボルツマンマシンを用いた量子多体波動関数表現：深層ボルツマンマシンによる厳密な表現と制限ボルツマンマシンによる数値的近似表現」 ](#第8回) 8/6
+* [第7回：　本武陽一　氏「物理学者と学習機械の効果的な協業に向けて：学習済み深層ニューラルネットワークからの解釈可能な物理法則抽出」 ](#第7回) 7/30
+* [第6回：　吉岡信行　氏「ニューラルネットワークで探る量子多体系の表現」 ](#第6回) 7/9
+* [第5回：　福嶋健二　氏「物理学における観測と機械学習：中性子星の事例」 ](#第5回) 6/25
+* [第4回：　唐木田亮　氏「深層学習の数理: 統計力学的アプローチ」 ](#第4回) 6/18
 * [第3回：　ライトニングトーク](#第3回) 6/11
-* [第2回：　橋本幸士「深層学習と時空」](#第2回) 5/28
-* [第1回：　永井佑紀「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
+* [第2回：　橋本幸士　氏「深層学習と時空」](#第2回) 5/28
+* [第1回：　永井佑紀　氏「精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法」](#第1回) 5/14
 
 
 # 第17回
 日時: 12月10日10:30-11:30(JST)<br>
-発表者: 本間希樹（国立天文台 水沢VLBI観測所）<br>
+発表者: 本間希樹　氏（国立天文台 水沢VLBI観測所）<br>
 発表題目: EHTによるブラックホールの撮像とスパースモデリング<br>
 概要：2019年4月、Event Horizon Telescope（EHT）プロジェクトによって、楕円銀河M87の中心にある巨大ブラックホールの影の写真が公表され、巨大ブラックホールの存在を示す視覚的な証拠として大きな話題となった。この写真は、世界中のミリ波電波望遠鏡を結ぶVLBI（Very Long Baseline Interferometry：超長基線電波干渉計）の観測手法を用いて撮影されたものである。電波干渉計の画像処理の基礎方程式は２次元フーリエ変換であるが、望遠鏡の台数が限られることから基礎方程式は劣決定となり、直接に逆フーリエ変換を実行することができない。このような問題を効率的に解くための手法として、我々はスパース性を制約として適切な解を得る「スパースモデリング」を用いて画像処理を行う解析手法を開発してきた。今回の講演では、電波干渉計によるブラックホール観測においてスパースモデリングや機械学習的なアプローチがどのように活用されているかについて紹介し、今後の展望についても合わせて述べたい。
 
@@ -532,13 +541,13 @@ Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
 入門講義「機械学習と物理」<br>
 
 第1部<br>
-発表者: 田中章詞 (RIKEN iTHEMS/AIP)<br>
+発表者: 田中章詞 氏(RIKEN iTHEMS/AIP)<br>
 発表題目: 深層学習入門<br>
 [講演スライド](./slides/DLAP2020intro_tanaka.pdf)<br>
 概要:入門者向けにpythonの文法から深層学習フレームワークのミニマムな使い方の講義を行います。講義はgoogle colaboratoryを使って、実際にコードを触りながら行う予定です。<br>
 
 第2部<br>
-発表者: 富谷昭夫 (RIKEN BNL)<br>
+発表者: 富谷昭夫 氏(RIKEN BNL)<br>
 発表題目: ニューラルネットを使った2次元イジング模型の相検出<br>
 [手順書](./slides/Tomiya_howto_dlap2020.pdf)<br>
 [Jupyter notebook(github)](./slides/DLAP2020_ising_detection.ipynb)<br>
@@ -549,7 +558,7 @@ Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
 
 # 第15回
 日時: 11月12日10:30-11:30(JST)<br>
-発表者: 森貴司(RIKEN CEMS)<br>
+発表者: 森貴司　氏(RIKEN CEMS)<br>
 [講演スライド](./slides/DL_Physics2020_mori.pdf)<br>
 発表題目: 深層学習の汎化の謎をめぐって<br>
 概要：現代的な深層学習の応用は，モデルに含まれるパラメータの数が訓練データのサンプル数よりも大きい，いわゆる過剰パラメータ領域 (overparameterized regime) でなされている．そのような領域で深刻な過剰適合 (overfitting) を示すことなく高い汎化性能が得られることは深層学習の大きな謎の一つである．この謎を理論的に解明しようとするときに重要だと思われる要素として，(i)モデルの特徴（ネットワークのタイプや深さ，広さなど），(ii)データの持つ構造（データの有効次元，局所性，対称性など），(iii)最適化アルゴリズムの特性（確率的勾配法などのダイナミクス）が挙げられる．<br>
@@ -563,7 +572,7 @@ Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
 
 # 第14回
 日時: 10月29日10:30-11:30(JST)<br>
-発表者: 野尻　美保子(高エネルギー加速器研究機構)<br>
+発表者: 野尻　美保子　氏(高エネルギー加速器研究機構)<br>
 [講演スライド](./slides/nojiri.pdf)<br>
 発表題目: ミンコフスキー汎関数を用いた機械学習の提案<br>
 概要：LHCなどで行われているコライダー実験では深層学習の利用がさかんです。この中で、強い相互作用（QCD) によって作られるジェット（ハドロン束）がどのようなプロセスから作られたかを深層学習で分類する問題は、新現象の探索に成果をあげています。深層学習を使ったジェット画像分類は、QCDとしてよい IRC(Infrared collinear) safe な指標だけを使ったジェット分類とくらべて、パフォーマンスが良いことがしられていました。<br>
@@ -575,7 +584,7 @@ Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
 
 # 第13回
 日時: 10月15日10:30-11:30(JST)<br>
-発表者: Kazuhiro Terao (SLAC スタンフォード国立加速器研究所)<br>
+発表者: Kazuhiro Terao 氏(SLAC スタンフォード国立加速器研究所)<br>
 [講演スライド](./slides/2020-10-14-JapanSeminar.pdf)<br>
 （ご講演は英語）
 発表題目: End-to-End, Machine Learning-based Data Reconstruction for Particle Imaging Neutrino Detectors<br>
@@ -584,7 +593,7 @@ Hidenori Tanaka*, Daniel Kunin*, Daniel L. K. Yamins, Surya Ganguli
 
 # 第12回
 日時: 10月1日10:30-11:30(JST)<br>
-発表者: 樺島祥介(東大理／知の物理学研究センター)<br>
+発表者: 樺島祥介　氏(東大理／知の物理学研究センター)<br>
 [講演スライド](./slides/SemianalyticBS.pdf)<br>
 発表題目:スパース線形回帰に対する半解析的ブートストラップ法<br>
 概要：データからのパラメータ推定では必ず統計的なゆらぎが生じる．
@@ -615,7 +624,7 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 
 # 第11回
 日時: 9月17日10:30-11:30(JST)<br>
-発表者: 藤井啓祐(阪大基礎工)<br>
+発表者: 藤井啓祐　氏(阪大基礎工)<br>
 発表題目:NISQ (Noisy Intermediate-Scale Quantum technology) マシンを用いた量子機械学習<br>
 [講演スライド](./slides/DeepLPhys_Fujii.pdf)<br>
 講演概要: 
@@ -627,7 +636,7 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 
 # 第10回
 日時: 9月3日10:30-11:30(JST)<br>
-発表者: 斎藤弘樹(電気通信大学基盤理工学専攻)<br>
+発表者: 斎藤弘樹　氏(電気通信大学基盤理工学専攻)<br>
 発表題目:強化学習を用いたボース・アインシュタイン凝縮体の制御<br>
 [講演スライド](./slides/DLAP2020Saito.pdf)<br>
 講演概要: 
@@ -638,7 +647,7 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 
 # 第9回
 日時: 8月20日10:30-11:30(JST)<br>
-講演者: 林祐輔（Japan Digital Design, Inc. ただし講演は個人としての活動）<br>
+講演者: 林祐輔　氏（Japan Digital Design, Inc. ただし講演は個人としての活動）<br>
 講演題目: 表現学習の熱力学：深層生成モデルの物理法則を求めて<br>
 [講演スライド](./slides/DLAP2020slideyh.pdf)<br>
 講演概要: 本講演では，深層生成モデルを熱力学と結びつけるいくつかの研究について紹介する．ベイズ統計と熱力学には形式的アナロジーが成り立つことが知られている[1]．その核にあるのは，ベイズ統計における損失関数が，熱力学における自由エネルギーと対応するというアイディアである．近年ではこのアナロジーを深層生成モデルにあてはめて，訓練が終了して平衡状態に落ち着いた深層生成モデルに対して熱力学第一法則や第二法則に相当するものが成り立つことを調べた研究がある[2]．ここでも損失関数として自由エネルギーが登場し，完全な熱力学関数のように振る舞う．しかし，このままでは損失関数と自由エネルギーの対応はアナロジーの域を出ず，統計的学習の背後にあるはずの学習プロセスを拘束する諸条件，“物理法則”に相当するものがみえてこないと講演者は感じている．深層生成モデルについて熱力学第一法則や第二法則以上の拘束条件は見出せないのだろうか？最近になって深層生成モデルを使った転移学習のプロセスに，準静的過程のアナロジーを持ち込んだ研究があらわれた[3]．深層生成モデルの損失関数は再構成誤差項や正則化項，分類誤差項などの要素からなるが，これらを温度にみたてて“等温準静的過程”を考えるのである．このような“熱力学的操作”を考えることで，損失関数の特定の要素の値を一定に保つ転移学習を行うことができる．この熱力学的操作を組み合わせればサイクルを考えることができ，その最大熱効率を与えるサイクルがカルノーサイクルであることを示すことができる．これは非平衡過程を含む転移学習プロセスの一つの拘束条件になっている．<br>
@@ -649,7 +658,7 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 
 # 第8回
 日時:  8月6日10:30-11:30(JST)<br>
-発表者: 野村悠祐（理研CEMS）<br>
+発表者: 野村悠祐　氏（理研CEMS）<br>
 発表題目: ボルツマンマシンを用いた量子多体波動関数表現：深層ボルツマンマシンによる厳密な表現と制限ボルツマンマシンによる数値的近似表現<br>
 [講演スライド](./slides/DLAP_2020_Nomura.pdf)<br>
 概要： 指数関数的に大きな次元を持つ量子多体系の波動関数を有限個のパラメータで精度よく表すことは、物性物理のみならず素粒子、原子核、量子化学などに共通するグランドチャレンジである。本講演では機械学習で用いられるボルツマンマシンが量子多体波動関数表現に有用であることを紹介する。まず隠れ層が二層ある深層ボルツマンマシン(DBM)を用いて基底状態の波動関数を任意の精度で解析的に表現することが可能であることを示す[1]。これは経路積分を包含するより一般的な量子古典対応のフレームワークを提供するが、物理量計算に隠れ層自由度をモンテカルロサンプリングする必要性があるため負符号問題が生じる場合がある[1]。一方で、隠れ層が一層に制限された制限ボルツマンマシン(RBM)では、DBMのように解析的な表現はできないものの、数値的にパラメータを最適化することで、量子多体波動関数の表現が可能になる。RBMの良いところは解析的に隠れ層自由度をトレースアウトできるところであり、量子系の数値計算を行う上では負符号問題を回避できる点でDBMより利点がある場合がある。RBMを用いた手法は、フェルミオン系、フェルミオン-ボソン結合系、フラストレーションのあるスピン系な度への適用が進んでおり、それら一連の研究について紹介する[2-4]。<br>
@@ -660,7 +669,7 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 
 # 第7回
 日時:  7月30日10:30-11:30(JST)<br>
-発表者: 本武陽一 (統計数理研究所)<br>
+発表者: 本武陽一 氏(統計数理研究所)<br>
 [講演スライド](./slides/DLAP2020_7_mototake.pdf)<br>
 発表題目: 物理学者と学習機械の効果的な協業に向けて：学習済み深層ニューラルネットワークからの解釈可能な物理法則抽出<br>
 概要： 本講演では、力学系時系列データを学習した深層ニューラルネットワーク（DNN）から、解釈可能な物理則を抽出する手法を提案する[1]。
@@ -674,7 +683,7 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 
 # 第6回
 日時:  7月9日10:30-11:30(JST)<br>
-発表者: 吉岡信行 (理研)<br>
+発表者: 吉岡信行 氏(理研)<br>
 発表題目: ニューラルネットワークで探る量子多体系の表現<br>
 [講演スライド](./slides/202007_yoshioka_DLAP_seminar_send.pdf)<br>
 従来より高い表現能力を持つことが知られていたニューラルネットワークは、近年の計算資源の向上・最適化手法の発達により、多くの機械学習タスクにおいて成功を収めている。
@@ -690,7 +699,7 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 
 # 第5回
 日時: 6月25日10:30-11:30(JST)<br>
-発表者: 福嶋健二 (東京大学)<br>
+発表者: 福嶋健二 氏(東京大学)<br>
 発表題目: 物理学における観測と機械学習：中性子星の事例<br>
 [講演スライド](./slides/fukushima.pdf)<br>
 概要: 学習、特に教師あり学習や強化学習とは、一言で表せば、最適化問題を解くということである。物理学は古来、最適化問題の効率向上に心血を注いできた学問であり、機械学習との親和性は高い。物理学における実験データの回帰分析に機械学習を応用するのは自然な発想だろう。例えば高エネルギー物理学ではジェットの識別に機械学習がその威力を発揮していることはよく知られている。しかし物理学の多くの回帰分析では、誤差のついたデータから誤差をつけたデータを引き出す必要があり、学習モデルはインプットが真値からずれている、ということも適切に学習せねばならない。本講演では中性子星の観測データから状態方程式を構築する問題を具体的な事例として採り上げ[1,2]、ひとつのアプローチ法を提案する。最後に、観測誤差を取り入れた学習が、ニューラルネットワークの重みの初期値依存性問題と密接に関係していることを議論する。<br>
@@ -699,7 +708,7 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 
 # 第4回
 日時: 2020年6月18日10:30-11:30(JST)<br>
-発表者: 唐木田 亮 (産総研)<br>
+発表者: 唐木田 亮 氏(産総研)<br>
 発表題目: 深層学習の数理: 統計力学的アプローチ<br>
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdJtfmkcJJ8gagNZ0_XJH7m5l1gPA4v0VsfxJUri5uxAOGSNA/viewform)
@@ -722,26 +731,26 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 日時: 2020年6月11日10:30-11:30(JST)<br>
 発表者：希望者<br>
 
-講演者: 野村悠祐 (理研CEMS)<br>
+講演者: 野村悠祐 氏(理研CEMS)<br>
 講演題目: 深層ボルツマンマシンを用いた量子多体波動関数の厳密な構築<br>
 講演概要: 量子多体系の波動関数を深層ボルツマンマシンを用いて厳密に表現する方法を紹介する(Carleo, Nomura, Imada, Nature Communications 2018)。<br>
 
 [講演スライド](./slides/Nomura_presentation_2020_06_11.pdf)
 
-講演者: 林祐輔 (Japan Digital Design, Inc. ただし講演は個人としての活動)<br>
+講演者: 林祐輔 氏(Japan Digital Design, Inc. ただし講演は個人としての活動)<br>
 講演題目: 表現学習の確率熱力学的解釈<br>
 講演概要: 表現学習とは，画像，音声，自然言語，時系列データといった多様な生データから，目的のタスクを解くために意味のある特徴量を生成する方法を，統計モデル自身に考えさせるアプローチのことを指す．この発表では，表現学習と確率熱力学の間にアナロジーが成り立つことを紹介し，準静的過程に対応する熱力学的操作が転移学習のようなデータのドメインを跨ぐ学習において有用であることを説明する．<br>
 
 [講演スライド](./slides/Hayashi_DLAP2020.pdf)
 
-講演者: 北沢正清 (大阪大学)<br>
+講演者: 北沢正清 氏(大阪大学)<br>
 講演題目: SU(3)非可換ゲージ理論のトポロジー分類への機械学習の適用<br>
 講演概要: 4次元畳み込みニューラルネットワークを用いて、SU(3)非可換ゲージ理論の多次元データを学習し、トポロジカル電荷を推定した。99%という高い正答率を得た成果などを報告する。<br>
 
 [講演スライド](./slides/Kitazawa_200611DLAP_NNQ.pdf)
 
 
-講演者: 大塚啓(KEK)<br>
+講演者: 大塚啓　氏(KEK)<br>
 講演題目: 深層学習を用いた弦理論のランドスケープ<br>
 講演概要: 本講演では、背景磁場のあるCalabi-Yau 多様体上にコンパクト化されたヘテロ型弦理論に対して、深層学習の一種であるオートエンコーダーによる次元削減とクラスタリングを適用する。 特に、フェルミオンの世代数と余剰次元空間の曲率に強い相関があることを紹介する[1]。[1] H. Otsuka and K. Takemoto, JHEP 05 (2020), 047.<br>
 
@@ -767,7 +776,7 @@ to appear in Journal of Statistical Mechanics: Theory and Experiment<br>
 
 # 第2回
 日時: 2020年5月28日10:30-11:30(JST)<br>
-発表者: 橋本幸士(大阪大学)<br>
+発表者: 橋本幸士　氏(大阪大学)<br>
 発表題目: 深層学習と時空
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeWYyvnJC-sHLrit6d-RebOaaDeBFEFc3wsMtlASIJRniLGEg/viewform)
@@ -787,7 +796,7 @@ Published in: Phys.Rev.D 98 (2018) 10, 106014 • e-Print: 1809.10536 [hep-th]<b
 
 # 第1回
 日時: 2020年5月14日10:30-11:30(JST)<br>
-発表者: 永井佑紀(原子力機構)<br>
+発表者: 永井佑紀　氏(原子力機構)<br>
 発表題目: 精度保証された機械学習分子動力学法：自己学習ハイブリッドモンテカルロ法 
 
 [登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSedDoIH3RW6skBAzu84BkZ8yJTapYxC237BztfnPGhVdGgLLg/viewform)
