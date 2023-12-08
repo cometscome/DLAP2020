@@ -57,6 +57,7 @@ https://www.nature.com/articles/s42005-023-01132-0
 発表者：太田敏博　氏(サイバーエージェント AI Lab)<br>
 場所（ハイブリッド）：上智大学四谷キャンパス理工学部9号館254A<br>
 オンライン配信会場：京都大学理学研究科5号館511号室<br>
+[講演スライド](./slides/main.pdf)<br>
 発表題目：Hopfield/Mixer 対応：MetaFormer のより良い理解に向けて<br>
 概要：近年の Transformer の目覚ましい発展・応用は自然言語処理だけでなく画像認識の分野でも顕著である。Transformer において決定的な役割を果たしていると思われていた注意機構は画像認識モデルとしては必須では無いことが実験的に示唆されており、Transformer のさまざまな変種 (MetaFormers) が提案されている。一方物理学のスピングラス模型からインスパイアされた Hopfield 模型は古くから連想記憶模型として知られており、現代的 Hopfield 模型では注意機構をも内包することが明らかとなってきた。本講演ではまず Transformer と CNN の比較および Transformer の変種の代表格である MLP-Mixer を紹介したのち、 MetaFormer の統一的理解に向けて現代的 Hopfield 模型が有用であるかもしれないことを議論する。とくに MetaFormer の新しいアーキテクチャデザイン手法として Hopfield/Mixer 対応を提案し、その帰結として理論的に導出される新しい MetaFormer モデルを紹介する。最後に Hopfield/Mixer 対応の可能な拡張やその展望について述べる。
 
