@@ -27,7 +27,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
 * [第16回領域セミナ・第68回DLAP：　小渕 智之 氏 「TBA」](#第16回学習物理領域セミナー第68回dlap) 2/6
-* [第15回領域セミナ・第67回DLAP：　伊藤 創祐 氏 「TBA」](#第15回学習物理領域セミナー第67回dlap) 1/30
+* [第15回領域セミナ・第67回DLAP：　伊藤 創祐 氏 「最適輸送と非平衡熱力学: 拡散モデルへの応用」](#第15回学習物理領域セミナー第67回dlap) 1/30
 * [第14回領域セミナ・第66回DLAP：　原田 健自 氏 「TBA」](#第14回学習物理領域セミナー第66回dlap) 1/16
 * [第13回領域セミナ・第65回DLAP：　堀江 正信 氏 「局所保存性・相似変換対称性を満たす機械学習モデルによる数値流体力学」](#第13回学習物理領域セミナー第65回dlap) 12/19
 * [第12回領域セミナ・第64回DLAP：　今田 正俊 氏 「フェルミマシン」](#第12回学習物理領域セミナー第64回dlap) 11/28
@@ -59,8 +59,12 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 日時：1月30日10:30~11:30(JST)<br>
 発表者：伊藤 創祐 氏 (東京大学 理学系研究科 生物普遍性研究機構)<br>
 場所（ハイブリッド）：上智大学四谷キャンパス 理工学部9号館 254A<br>
-発表題目：TBA<br>
-概要：TBA<br>
+発表題目：最適輸送と非平衡熱力学: 拡散モデルへの応用<br>
+概要：物をできるだけコストが少ないように運ぶ最適な方法は何だろうか。このような素朴な疑問は18世紀に数学者ガスパール=モンジュに提案されて以降、最適輸送理論と呼ばれる数学として微分幾何学や情報理論、偏微分方程式論などのさまざまな観点から発展を遂げてきた[1]。特に近年では最適輸送理論にて導入される距離の一種を用いた機械学習の手法としても興味を急速に持たれ始めている。一方で、最適輸送理論は非平衡熱力学や流体力学などの物理学と情報理論や微分幾何学などの数学をつなぐ接点としても興味深い。我々は非平衡熱力学と最適輸送理論の関係についてさまざまな研究を行ってきたが、本講演ではその一部(例えば[2]など)を紹介し、またさらに生成AIの手法である拡散モデルにおける最適輸送理論の応用[3]と、非平衡熱力学的な手法の有用性[4]について議論を行いたい。<br>
+[1] Villani, C. (2009). Optimal transport: old and new (Vol. 338, p. 23). Berlin: springer.<br>
+[2] Ito, S. (2024). Geometric thermodynamics for the Fokker–Planck equation: stochastic thermodynamic links between information geometry and optimal transport. Information Geometry, 7(Suppl 1), 441-483.<br>
+[3] Lipman, Y., Chen, R. T., Ben-Hamu, H., Nickel, M., & Le, M. (2022). Flow matching for generative modeling. arXiv preprint arXiv:2210.02747.<br>
+[4] Ikeda, K., Uda, T., Okanohara, D., & Ito, S. (2024). Speed-accuracy trade-off for the diffusion models: Wisdom from nonequilibrium thermodynamics and optimal transport. arXiv preprint arXiv:2407.04495.<br>
 
 # 第14回学習物理領域セミナー＋第66回DLAP
 日時：1月16日10:30~11:30(JST)<br>
