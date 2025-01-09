@@ -28,7 +28,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 
 * [第16回領域セミナ・第68回DLAP：　小渕 智之 氏 「TBA」](#第16回学習物理領域セミナー第68回dlap) 2/6
 * [第15回領域セミナ・第67回DLAP：　伊藤 創祐 氏 「最適輸送と非平衡熱力学: 拡散モデルへの応用」](#第15回学習物理領域セミナー第67回dlap) 1/30
-* [第14回領域セミナ・第66回DLAP：　原田 健自 氏 「TBA」](#第14回学習物理領域セミナー第66回dlap) 1/16
+* [第14回領域セミナ・第66回DLAP：　原田 健自 氏 「テンソル木を用いた生成モデルがデータ内の隠れた関係性を抽出する」](#第14回学習物理領域セミナー第66回dlap) 1/16
 * [第13回領域セミナ・第65回DLAP：　堀江 正信 氏 「局所保存性・相似変換対称性を満たす機械学習モデルによる数値流体力学」](#第13回学習物理領域セミナー第65回dlap) 12/19
 * [第12回領域セミナ・第64回DLAP：　今田 正俊 氏 「フェルミマシン」](#第12回学習物理領域セミナー第64回dlap) 11/28
 * [第11回領域セミナ・第63回DLAP：　竹内 駿 氏 「AI社会実装の最前線－宇宙物理との関連も交えて」](#第11回学習物理領域セミナー第63回dlap) 11/14
@@ -70,8 +70,22 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 日時：1月16日10:30~11:30(JST)<br>
 発表者：原田 健自 氏 (京都大学大学院 情報学研究科)<br>
 場所（ハイブリッド）：京都大学 理学部５号館 511号室<br>
-発表題目：TBA<br>
-概要：TBA<br>
+発表題目：テンソル木を用いた生成モデルがデータ内の隠れた関係性を抽出する<br>
+概要：ボルンマシンと呼ばれる量子状態の観測結果を基にした生成モデルが提案され[1]、量子コンピュータの応用例として注目されています[2]。一方、ボルンマシンの量子状態をテンソルネットワーク（テンソル分解）で表現することにより、古典計算機でも効率よく実行できる手法も興味深いものです[1]。実際、テンソルネットワークを用いることで、量子回路によるボルンマシンのパラメータ最適化問題を解決できることが示されています[3]。しかし、このアプローチには、テンソルネットワークの構造に性能が大きく依存するという課題があります[4]。我々の最近の研究[5]では、データ内の相互情報量に着目し、ツリーテンソルネットワーク（テンソル木）を用いたボルンマシンにおいて、ネットワーク構造を動的に改善する手法を提案しました。その結果、ボルンマシンの性能向上に加えて、ネットワーク構造からデータ内の関係性を抽出できることが明らかになりました。講演では、ランダムパターン、手書き文字画像、ベイジアンネットワーク、株価の揺らぎなどのデータに適用した実例を紹介します。近年、パラメータ圧縮の観点から機械学習においてテンソル分解が多く用いられており、ネットワーク最適化はその性能向上に貢献する有望なアプローチとして期待できます。<br>
+[1] Han Z Y, Wang J, Fan H, Wang L and Zhang P, Unsupervised
+Generative Modeling Using Matrix Product States, Physical Review X 8,
+031012(2018).<br>
+[2] Coyle B, Mills D, Danos V and Kashefi E, The Born supremacy:
+quantum advantage and training of an Ising Born machine, npj Quantum
+Information 6, 60(2020).<br>
+[3] Rudolph M S, Miller J, Motlagh D, Chen J, Acharya A and
+Perdomo-Ortiz A, Synergistic pretraining of parametrized quantum
+circuits via Tensor networks, Nature Communications 14, 8367(2023).<br>
+[4] Cheng S, Wang L, Xiang T and Zhang P, Tree tensor networks for
+generative modeling, Physical Review B 99, 155131(2019).<br>
+[5] Harada K, Okubo T, and Kawashima N, Tensor tree learns hidden
+relational structures in data to construct generative models,
+arXiv:2408.10669.<br>
 
 # 第13回学習物理領域セミナー＋第65回DLAP
 日時：12月19日10:30~11:30(JST)<br>
