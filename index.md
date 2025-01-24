@@ -26,7 +26,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
-* [第16回領域セミナ・第68回DLAP：　小渕 智之 氏 「TBA」](#第16回学習物理領域セミナー第68回dlap) 2/6
+* [第16回領域セミナ・第68回DLAP：　小渕 智之 氏 「圧縮センシングの理論と最近の進展」](#第16回学習物理領域セミナー第68回dlap) 2/6
 * [第15回領域セミナ・第67回DLAP：　伊藤 創祐 氏 「最適輸送と非平衡熱力学: 拡散モデルへの応用」](#第15回学習物理領域セミナー第67回dlap) 1/30
 * [第14回領域セミナ・第66回DLAP：　原田 健自 氏 「テンソル木を用いた生成モデルがデータ内の隠れた関係性を抽出する」](#第14回学習物理領域セミナー第66回dlap) 1/16
 * [第13回領域セミナ・第65回DLAP：　堀江 正信 氏 「局所保存性・相似変換対称性を満たす機械学習モデルによる数値流体力学」](#第13回学習物理領域セミナー第65回dlap) 12/19
@@ -52,8 +52,15 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 日時：2月6日10:30~11:30(JST)<br>
 発表者：小渕 智之 氏 (京都大学大学院 情報学研究科)<br>
 場所（ハイブリッド）：京都大学 理学部５号館 511号室<br>
-発表題目：TBA<br>
-概要：TBA<br>
+発表題目：圧縮センシングの理論と最近の進展<br>
+概要：サンプリング定理は，原信号を完全復元するために必要な観測数を簡潔な形で与える，信号処理における金字塔的結果の1つである．ここに，原信号が適切な基底で表現されたときにスパースになるという仮定を追加導入することで，サンプリング定理が与える観測数の限界を超えることができる．これが圧縮センシングである[1]．理論的に興味深いのは，どのような定式化をするとどこまで観測数を減らすことができるか，という点であり，高次元確率論や統計物理の視点から徹底的に解析された[2-5]．その一方，圧縮センシングをどのように実応用していくかという研究も盛んに行われ，医療や天文学において顕著な成果が得られている．本講演では，圧縮センシングの理論を簡単におさらいしたあと，最近我々が行った分光分析への応用研究[6]を紹介する．<br>
+参考文献:<br>
+[1] M. Elad: Sparse and redundant representations: From theory to applications in signal and image processing, Springer Science & Business Media (2010)<br>
+[2] E. J. Candes and T. Tao: Decoding by linear programming, IEEE Trans. Inf. Th., vol. 51, no. 12, 4203, (2005)<br>
+[3] D. L. Donoho, J. Tanner: Sparse nonnegative solution of underdetermined linear equations by linear programming, Proc. Natl. Acad. Sci., 102, 27, 9446 (2005)<br>
+[4] Y. Kabashima, T. Wadayama, T. Tanaka J. Stat. Mech., L09003 (2009)<br>
+[5] D. L. Donoho, A. Maleki, A. Montanari: Message-passing algorithms for compressed sensing, Proc. Natl. Acad. Sci., 106, 45, 18914 (2009)<br>
+[6] K. Uemura, T. Obuchi and T. Tanaka: Sparse Modeling for Spectrometer Based on Band Measurement, IEEE Trans. Sig. Proc. 72, 1724 (2024)<br>
 
 # 第15回学習物理領域セミナー＋第67回DLAP
 日時：1月30日10:30~11:30(JST)<br>
