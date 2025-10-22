@@ -61,7 +61,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 # 第25回学習物理領域セミナー＋第77回DLAP
 日時：1月29日10:30~11:30(JST)<br>
 発表者： 三角 樹弘 氏 (近畿大学 大学院総合理工学研究科)<br>
-場所（ハイブリッド）：京都大学理学研究科5号館（調整中）<br>
+場所（ハイブリッド）：京都大学理学研究科5号館 501<br>
 発表題目：TBA<br>
 概要：TBA<br>
 
@@ -1111,4 +1111,5 @@ Published in: Phys.Rev.D 98 (2018) 10, 106014 • e-Print: 1809.10536 [hep-th]<b
 
 [1] J. Liu, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 041101(R) (2017).; J. Liu, H. Shen, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 241104(R) (2017).; YN, H, Shen, Y. Qi, J. Liu, and L. Fu, Phys. Rev. B 96, 161102(R) (2017)<br>
 [2] YN, M. Okumura, K. Kobayashi and M. Shiga, arXiv:1909.02255<br>
+
 
