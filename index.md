@@ -100,7 +100,7 @@ R. Kawasumi and K. Takeda, Neural Comput. 35, 1086 (2023)<br>
 発表者： 棚橋 典大 氏 (京都大学 大学院理学研究科)<br>
 場所：ZOOM (オンラインのみ、上智大学四谷キャンパス 理工学部9号館 254A にてオンライン配信も行います)<br>
 発表題目：物理的ニューラルネットによる極小曲面の生成とその応用<br>
-[講演スライド](./slides/)<br>
+[講演スライド](./slides/PINN_dlap-20251106.pdf)<br>
 概要：本講演では、機械学習を用いた微分方程式の解法として注目されているPhysics-Informed Neural Network（PINN）を、重力理論およびその応用分野に典型的に現れる微分方程式に適用する試みを紹介する。PINNの実用性と課題、従来手法と比べた場合の特性を検証するため、重力理論研究の文脈で議論される問題（曲がった時空における弦や極小曲面の構成）に注目して数値解の構成を試みる。特に、数値計算領域が動的に変化したり、通常数値解の構成が困難となる特異点が存在する場合について、PINNがいかなる利点をもたらしうるかを紹介する。また、本手法を素粒子論研究に応用する試み（グルーオン散乱振幅の計算）についても報告する。<br>
 参考文献:<br>
 K. Hashimoto, K. Kyo, M. Murata, G. Ogiwara, N. Tanahashi,<br>
@@ -1114,6 +1114,7 @@ Published in: Phys.Rev.D 98 (2018) 10, 106014 • e-Print: 1809.10536 [hep-th]<b
 
 [1] J. Liu, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 041101(R) (2017).; J. Liu, H. Shen, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 241104(R) (2017).; YN, H, Shen, Y. Qi, J. Liu, and L. Fu, Phys. Rev. B 96, 161102(R) (2017)<br>
 [2] YN, M. Okumura, K. Kobayashi and M. Shiga, arXiv:1909.02255<br>
+
 
 
 
