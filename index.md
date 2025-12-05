@@ -84,6 +84,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 発表者： 笠置 歩 氏 (同志社大学 研究開発推進機構)<br>
 場所：ZOOM (オンラインのみ)<br>
 発表題目：深層学習による基礎物理測定データ解析: 分類・検出・回帰予測、マルチモーダルへの発展<br>
+[講演スライド](./slides/ML_Physics_seminar_kasagi.pdf)<br>
 概要：深層学習の優れた汎化性能は基礎科学の実験データ解析にも広く応用されている。本講演では講演者らがこれまでに深層学習を導入して取り組んできた原子核物理実験のための画像解析、イオン源制御手法について紹介する。さらに、近年発展が著しいVision Language Modelに代表されるマルチモーダルモデルを用いた解析手法のアイデアについても議論する。<br>
 
 # 第21回学習物理領域セミナー＋第73回DLAP
@@ -1115,6 +1116,7 @@ Published in: Phys.Rev.D 98 (2018) 10, 106014 • e-Print: 1809.10536 [hep-th]<b
 
 [1] J. Liu, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 041101(R) (2017).; J. Liu, H. Shen, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 241104(R) (2017).; YN, H, Shen, Y. Qi, J. Liu, and L. Fu, Phys. Rev. B 96, 161102(R) (2017)<br>
 [2] YN, M. Okumura, K. Kobayashi and M. Shiga, arXiv:1909.02255<br>
+
 
 
 
