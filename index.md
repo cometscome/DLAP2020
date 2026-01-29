@@ -63,6 +63,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 発表者： 三角 樹弘 氏 (近畿大学 大学院総合理工学研究科)<br>
 場所（ハイブリッド）：京都大学理学研究科5号館 501<br>
 発表題目：What can PINN do? -PDE, lattice fermions and topology-<br>
+[講演スライド](./slides/KyotoU012926_compressed.pdf)<br>
 概要：Physics-Informed Neural Networks (PINN) は，物理法則を損失関数に組み込むことで微分方程式を解く強力な手法として注目を集めている．本講演では，非線形偏微分方程式から格子場の理論に至るまで，理論物理学におけるPINNの可能性を探る．まず，自己重力系量子物質を記述するシュレディンガー-ニュートン方程式への適用例を紹介した後，今回の主眼である格子フェルミオンとトポロジーへの応用について議論する．ここでは，ニューラルネットワーク(NN)を用いて格子上のカイラルフェルミオンを構成する新しいアプローチを考える．具体的には，Ginsparg-Wilson (GW) 関係式や局所性を物理的制約として課すことで，NNがOverlapフェルミオンのスペクトル演算子を学習できることを示す．学習された演算子のトポロジカルな性質がU(1)ゲージ場中のスペクトルフローを通してAtiyah-Singerの指数定理を満たすことを見る．さらに，物理的要請のみからNNが厳密なGW関係式そのものを「再発見」した結果についても触れ，場の理論における対称性の探索に対するデータ駆動型アプローチの可能性を議論する．<br>
 
 # 第24回学習物理領域セミナー＋第76回DLAP
@@ -1118,6 +1119,7 @@ Published in: Phys.Rev.D 98 (2018) 10, 106014 • e-Print: 1809.10536 [hep-th]<b
 
 [1] J. Liu, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 041101(R) (2017).; J. Liu, H. Shen, Y. Qi, Z. Y. Meng, and L. Fu, Phys. Rev. B 95, 241104(R) (2017).; YN, H, Shen, Y. Qi, J. Liu, and L. Fu, Phys. Rev. B 96, 161102(R) (2017)<br>
 [2] YN, M. Okumura, K. Kobayashi and M. Shiga, arXiv:1909.02255<br>
+
 
 
 
