@@ -26,6 +26,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 
 本セミナーシリーズは、科学研究費補助金学術変革領域研究(A)「[学習物理学の創成](https://mlphys.scphys.kyoto-u.ac.jp/)」の補助を受けております。
 
+* [第27回領域セミナ・第79回DLAP：　Ling Xiao Wang 氏 「Diffusion Models as Stochastic Quantization on the Lattice」](#第27回学習物理領域セミナー第79回dlap) 6/11
 * [第26回領域セミナ・第78回DLAP：　宮戸 岳 氏 「物理に着想を得たモデルによる、長期的かつコヒーレントな再帰システムの探究」](#第26回学習物理領域セミナー第78回dlap) 5/28
 * [第25回領域セミナ・第77回DLAP：　三角 樹弘 氏 「What can PINN do? -PDE, lattice fermions and topology-」](#第25回学習物理領域セミナー第77回dlap) 1/29
 * [第24回領域セミナ・第76回DLAP：　高橋 智 氏 「遺伝的アルゴリズム/強化学習で探るインフレーション宇宙論」](#第24回学習物理領域セミナー第76回dlap) 1/15
@@ -57,6 +58,13 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 * [第50回：　永井佑紀　氏 「機械学習分子シミュレーションを用いた、準結晶における高次元性の解析」 ](#第50回) 4/27
 
 2022年以前の講演は[こちら](#過去の講演)
+
+# 第27回学習物理領域セミナー＋第79回DLAP
+日時：6月11日10:30~11:30(JST)<br>
+発表者： Ling Xiao Wang 氏 (理研iTHEMS)<br>
+場所：ZOOM（オンラインのみ）<br>
+発表題目：Diffusion Models as Stochastic Quantization on the Lattice<br>
+概要：Diffusion models, the engine behind modern image and video generations, share their mathematical backbone with stochastic quantization, the 1980s formulation of Euclidean field theory by Parisi and Wu. This correspondence turns a generative AI technique into a physically motivated sampler for lattice simulations, where critical slowing down and topological freezing limit conventional Monte Carlo. I will first introduce the physics underlying diffusion models, then our recent work showing that physics-conditioned and gauge-equivariant diffusion models generalize across couplings and lattice volumes in scalar and non-Abelian gauge theories, and an optimal stochastic quantization perspective on designing denoising samplers without data.<br>
 
 # 第26回学習物理領域セミナー＋第78回DLAP
 日時：5月28日16:00~17:00(JST)(通常とは時間が異なりますので、ご注意ください)<br>
