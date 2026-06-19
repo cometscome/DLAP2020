@@ -90,6 +90,7 @@ DLAP世話人:　橋本幸士（京都大）、富谷昭夫（東京女子大）
 発表者： Ling Xiao Wang 氏 (理研iTHEMS)<br>
 場所：ZOOM（オンラインのみ）<br>
 発表題目：Diffusion Models as Stochastic Quantization on the Lattice<br>
+[講演スライド](./slides/20260611_Seminar_Lingxiao.pdf)<br>
 概要：Diffusion models, the engine behind modern image and video generations, share their mathematical backbone with stochastic quantization, the 1980s formulation of Euclidean field theory by Parisi and Wu. This correspondence turns a generative AI technique into a physically motivated sampler for lattice simulations, where critical slowing down and topological freezing limit conventional Monte Carlo. I will first introduce the physics underlying diffusion models, then our recent work showing that physics-conditioned and gauge-equivariant diffusion models generalize across couplings and lattice volumes in scalar and non-Abelian gauge theories, and an optimal stochastic quantization perspective on designing denoising samplers without data.<br>
 
 # 第26回学習物理領域セミナー＋第78回DLAP
